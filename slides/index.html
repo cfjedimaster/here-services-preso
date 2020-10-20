@@ -16,7 +16,7 @@
 	<body>
 		<div class="reveal">
 			<div class="slides">
-				<section>
+				<section data-background="img/map.jpg" data-background-opacity="0.3">
 					<h1>HERE Services Workshop</h1>
 				</section>
 
@@ -34,10 +34,71 @@
 				<section>
 					<h2>Housekeeping</h2>
 					<p>
-					<a href="https://github.com/cfjedimaster/here-services-preso" target="_new">Slides + Demo Code</a>
+					<a href="https://github.com/cfjedimaster/here-services-preso" target="_new">github.com/cfjedimaster/here-services-preso</a>
 					</p>
 				</section>
 
+				<section>
+				<h2>Agenda</h2>
+				<ul>
+				<li class="fragment">Who we are</li>
+				<li class="fragment">What we do</li>
+				<li class="fragment">How you can do what we do</li>
+				<li class="fragment">Let's do some stuff!</li>
+				</ul>
+				<aside class="notes">
+				Cover our services, 
+				talk about signup, costs, 
+				walk you through demos
+				</aside>
+				</section>
+
+				<section>
+				<h2>Who we are</h2>
+				<ul>
+				<li class="fragment">HERE Technologies</li>
+				<li class="fragment">"Location for Developers"</li>
+				<li class="fragment">Provide mapping, location, geospatial services worldwide</li>
+				<li class="fragment">9000+ employees worldwide</li>
+				<li class="fragment">here.com</li>
+				</ul>
+				</section>
+
+				<section>
+				<h2>What we do</h2>
+				<ul>
+				<li class="fragment">Mapping Stuff!</li>
+				<li class="fragment">Maps for Web + Mobile</li>
+				<li class="fragment">APIs for a <i>lot</i> of stuff including routing, geocoding, searching, and more</li>
+				<li class="fragment">Map creation tools</li>
+				<li class="fragment">Geospatial data storage</li>
+				</ul>
+				</section>
+
+				<section>
+				<h2>How you can do what we do</h2>
+				<ul>
+				<li class="fragment">We have a free tier</li>
+				<li class="fragment">We have some paid stuff too</li>
+				<li class="fragment">Everything today is free!</li>
+				<li class="fragment"><a href="https://developer.here.com" target="_new">developer.here.com</a></li>
+				</ul>
+
+				<aside class="notes">
+				Ok Ray click that, and talk about registration and signup
+				go to project
+				talk about JS keys and REST keys
+				</aside>
+				</section>
+
+				<section>
+				<h2>Maps!</h2>
+				<ul>
+				<li class="fragment">JavaScript Map Library</li>
+				<li class="fragment">Panning, zooming, adding markers, lines, etc</li>
+				<li class="fragment">Library wraps calls to other services (like geocoding, routing)</li>
+				</ul>
+				</section>
 			</div>
 		</div>
 
@@ -53,7 +114,8 @@
 				hash: true,
 
 				// Learn about plugins: https://revealjs.com/plugins/
-				plugins: [ RevealMarkdown, RevealHighlight, RevealNotes ]
+				plugins: [ RevealMarkdown, RevealHighlight, RevealNotes ],
+				slideNumber: 'c/t' 
 			});
 		</script>
 	</body>
