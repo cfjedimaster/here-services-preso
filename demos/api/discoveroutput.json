@@ -1,0 +1,2787 @@
+{
+	"items": [
+		{
+			"title": "Taco Bell",
+			"id": "here:pds:place:8409vqec-9dff18342298440ab3a16e2fccd287c6",
+			"ontologyId": "here:cm:ontology:taco_bell",
+			"resultType": "place",
+			"address": {
+				"label": "Taco Bell, 1422 Johnston St, Lafayette, LA 70503, United States",
+				"countryCode": "USA",
+				"countryName": "United States",
+				"stateCode": "LA",
+				"state": "Louisiana",
+				"county": "Lafayette",
+				"city": "Lafayette",
+				"street": "Johnston St",
+				"postalCode": "70503",
+				"houseNumber": "1422"
+			},
+			"position": {
+				"lat": 30.21494,
+				"lng": -92.02188
+			},
+			"access": [
+				{
+					"lat": 30.2147,
+					"lng": -92.02155
+				}
+			],
+			"distance": 591,
+			"categories": [
+				{
+					"id": "100-1000-0009",
+					"name": "Fast Food",
+					"primary": true
+				},
+				{
+					"id": "100-1000-0000",
+					"name": "Restaurant"
+				},
+				{
+					"id": "100-1000-0003",
+					"name": "Take Out & Delivery Only"
+				}
+			],
+			"chains": [
+				{
+					"id": "1607"
+				}
+			],
+			"references": [
+				{
+					"supplier": {
+						"id": "core"
+					},
+					"id": "33724210"
+				},
+				{
+					"supplier": {
+						"id": "tripadvisor"
+					},
+					"id": "15653128"
+				},
+				{
+					"supplier": {
+						"id": "yelp"
+					},
+					"id": "EI_MDYD_0QwMnjGoN7ilsA"
+				}
+			],
+			"foodTypes": [
+				{
+					"id": "101-000",
+					"name": "American",
+					"primary": true
+				}
+			],
+			"contacts": [
+				{
+					"phone": [
+						{
+							"value": "+13372375163"
+						}
+					],
+					"fax": [
+						{
+							"value": "(337) 237-5199"
+						}
+					],
+					"www": [
+						{
+							"value": "http://www.tacobell.com"
+						},
+						{
+							"value": "https://locations.tacobell.com/la/lafayette/1422-johnston-st.html"
+						},
+						{
+							"value": "https://locations.tacobell.com/la/lafayette/1422-johnston-st.html?utm_source=yext&utm_campaign=yextpowerlistings&utm_medium=referral&utm_term=032601&utm_content=website"
+						},
+						{
+							"value": "https://www.tacobell.com/food?utm_source=yext&utm_campaign=yextpowerlistings&utm_medium=referral&utm_term=032601&utm_content=menu&y_source=1_NjE0NjMwMi01NjYtbG9jYXRpb24ubWVudV91cmw%3D"
+						},
+						{
+							"value": "https://www.tacobell.com/food?utm_source=yext&utm_campaign=yextpowerlistings&utm_medium=referral&utm_term=032601&utm_content=order&y_source=1_NjE0NjMwMi01NjYtbG9jYXRpb24ub3JkZXJfdXJs"
+						},
+						{
+							"value": "https://locations.tacobell.com/la/lafayette/1422-johnston-st.html?utm_source=yext&utm_campaign=yextpowerlistings&utm_medium=referral&utm_term=032601&utm_content=website&y_source=1_NjE0NjMwMi01NjYtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D"
+						}
+					],
+					"email": [
+						{
+							"value": "jon@tacosisters.com"
+						}
+					]
+				}
+			],
+			"openingHours": [
+				{
+					"text": [
+						"Mon-Thu, Sun: 07:00 - 03:00, 10:00 - 02:00",
+						"Fri, Sat: 07:00 - 04:30, 10:00 - 03:00"
+					],
+					"isOpen": true,
+					"structured": [
+						{
+							"start": "T070000",
+							"duration": "PT20H00M",
+							"recurrence": "FREQ:DAILY;BYDAY:MO,TU,WE,TH,SU"
+						},
+						{
+							"start": "T100000",
+							"duration": "PT16H00M",
+							"recurrence": "FREQ:DAILY;BYDAY:MO,TU,WE,TH,SU"
+						},
+						{
+							"start": "T070000",
+							"duration": "PT21H30M",
+							"recurrence": "FREQ:DAILY;BYDAY:FR,SA"
+						},
+						{
+							"start": "T100000",
+							"duration": "PT17H00M",
+							"recurrence": "FREQ:DAILY;BYDAY:FR,SA"
+						}
+					]
+				}
+			]
+		},
+		{
+			"title": "Taco Bell",
+			"id": "here:pds:place:8409vqec-154c514af1e245c1a040ad0323ac4597",
+			"ontologyId": "here:cm:ontology:taco_bell",
+			"resultType": "place",
+			"address": {
+				"label": "Taco Bell, 2406 W Congress St, Lafayette, LA 70506, United States",
+				"countryCode": "USA",
+				"countryName": "United States",
+				"stateCode": "LA",
+				"state": "Louisiana",
+				"county": "Lafayette",
+				"city": "Lafayette",
+				"street": "W Congress St",
+				"postalCode": "70506",
+				"houseNumber": "2406"
+			},
+			"position": {
+				"lat": 30.21415,
+				"lng": -92.04865
+			},
+			"access": [
+				{
+					"lat": 30.21391,
+					"lng": -92.04844
+				}
+			],
+			"distance": 2829,
+			"categories": [
+				{
+					"id": "100-1000-0009",
+					"name": "Fast Food",
+					"primary": true
+				},
+				{
+					"id": "100-1000-0000",
+					"name": "Restaurant"
+				},
+				{
+					"id": "100-1000-0003",
+					"name": "Take Out & Delivery Only"
+				}
+			],
+			"chains": [
+				{
+					"id": "1607"
+				}
+			],
+			"references": [
+				{
+					"supplier": {
+						"id": "core"
+					},
+					"id": "33688408"
+				},
+				{
+					"supplier": {
+						"id": "tripadvisor"
+					},
+					"id": "12292600"
+				},
+				{
+					"supplier": {
+						"id": "yelp"
+					},
+					"id": "7U9fkkWhUIpYXt1cR3LNoQ"
+				}
+			],
+			"foodTypes": [
+				{
+					"id": "101-000",
+					"name": "American",
+					"primary": true
+				}
+			],
+			"contacts": [
+				{
+					"phone": [
+						{
+							"value": "+13187412484"
+						},
+						{
+							"value": "+13372341251"
+						},
+						{
+							"value": "+13372357750"
+						},
+						{
+							"value": "+13374573408"
+						},
+						{
+							"value": "+13378247045"
+						},
+						{
+							"value": "+15044430388"
+						},
+						{
+							"value": "+15044430844"
+						},
+						{
+							"value": "+15044434605"
+						},
+						{
+							"value": "+15044695532"
+						}
+					],
+					"fax": [
+						{
+							"value": "(337) 235-7750"
+						}
+					],
+					"www": [
+						{
+							"value": "http://www.tacobell.com"
+						},
+						{
+							"value": "https://locations.tacobell.com/la/lafayette/2406-w-congress-st.html?utm_source=yext&utm_campaign=googlelistings&utm_medium=referral&utm_term=032600&utm_content=website"
+						},
+						{
+							"value": "https://locations.tacobell.com/la/lafayette/2406-w-congress-st.html?utm_source=yext&utm_campaign=yextpowerlistings&utm_medium=referral&utm_term=032600&utm_content=website"
+						},
+						{
+							"value": "https://www.tacobell.com/food?utm_source=yext&utm_campaign=yextpowerlistings&utm_medium=referral&utm_term=032600&utm_content=menu&y_source=1_NjE0NDk0OS01NjYtbG9jYXRpb24ubWVudV91cmw%3D"
+						},
+						{
+							"value": "https://www.tacobell.com/food?utm_source=yext&utm_campaign=yextpowerlistings&utm_medium=referral&utm_term=032600&utm_content=order&y_source=1_NjE0NDk0OS01NjYtbG9jYXRpb24ub3JkZXJfdXJs"
+						},
+						{
+							"value": "https://locations.tacobell.com/la/lafayette/2406-w-congress-st.html?utm_source=yext&utm_campaign=yextpowerlistings&utm_medium=referral&utm_term=032600&utm_content=website&y_source=1_NjE0NDk0OS01NjYtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D"
+						}
+					]
+				}
+			],
+			"openingHours": [
+				{
+					"text": [
+						"Mon-Thu, Sun: 07:00 - 04:00",
+						"Fri, Sat: 07:00 - 05:00"
+					],
+					"isOpen": true,
+					"structured": [
+						{
+							"start": "T070000",
+							"duration": "PT21H00M",
+							"recurrence": "FREQ:DAILY;BYDAY:MO,TU,WE,TH,SU"
+						},
+						{
+							"start": "T070000",
+							"duration": "PT22H00M",
+							"recurrence": "FREQ:DAILY;BYDAY:FR,SA"
+						}
+					]
+				}
+			]
+		},
+		{
+			"title": "Taco Bell",
+			"id": "here:pds:place:8409vqed-692c648f4ddf4b769103d8bac91d6b5a",
+			"ontologyId": "here:cm:ontology:taco_bell",
+			"resultType": "place",
+			"address": {
+				"label": "Taco Bell, 1935 W Pinhook Rd, Lafayette, LA 70508, United States",
+				"countryCode": "USA",
+				"countryName": "United States",
+				"stateCode": "LA",
+				"state": "Louisiana",
+				"county": "Lafayette",
+				"city": "Lafayette",
+				"street": "W Pinhook Rd",
+				"postalCode": "70508",
+				"houseNumber": "1935"
+			},
+			"position": {
+				"lat": 30.18784,
+				"lng": -92.01258
+			},
+			"access": [
+				{
+					"lat": 30.18754,
+					"lng": -92.01282
+				}
+			],
+			"distance": 3646,
+			"categories": [
+				{
+					"id": "100-1000-0009",
+					"name": "Fast Food",
+					"primary": true
+				},
+				{
+					"id": "100-1000-0000",
+					"name": "Restaurant"
+				},
+				{
+					"id": "100-1000-0003",
+					"name": "Take Out & Delivery Only"
+				}
+			],
+			"chains": [
+				{
+					"id": "1607"
+				}
+			],
+			"references": [
+				{
+					"supplier": {
+						"id": "core"
+					},
+					"id": "33690274"
+				},
+				{
+					"supplier": {
+						"id": "tripadvisor"
+					},
+					"id": "15653048"
+				},
+				{
+					"supplier": {
+						"id": "yelp"
+					},
+					"id": "P9v_mhMD7SIFNIxUuxttJQ"
+				}
+			],
+			"foodTypes": [
+				{
+					"id": "101-000",
+					"name": "American",
+					"primary": true
+				}
+			],
+			"contacts": [
+				{
+					"phone": [
+						{
+							"value": "+13372665857"
+						}
+					],
+					"fax": [
+						{
+							"value": "(337) 236-3579"
+						}
+					],
+					"www": [
+						{
+							"value": "http://www.tacobell.com"
+						},
+						{
+							"value": "https://locations.tacobell.com/la/lafayette/1935-west-pinhook-road.html?utm_source=yext&utm_campaign=googlelistings&utm_medium=referral&utm_term=032604&utm_content=website"
+						},
+						{
+							"value": "https://locations.tacobell.com/la/lafayette/1935-west-pinhook-road.html?utm_source=yext&utm_campaign=yextpowerlistings&utm_medium=referral&utm_term=032604&utm_content=website"
+						},
+						{
+							"value": "https://www.tacobell.com/food?utm_source=yext&utm_campaign=yextpowerlistings&utm_medium=referral&utm_term=032604&utm_content=menu&y_source=1_NjE0NTUwNy01NjYtbG9jYXRpb24ubWVudV91cmw%3D"
+						},
+						{
+							"value": "https://www.tacobell.com/food?utm_source=yext&utm_campaign=yextpowerlistings&utm_medium=referral&utm_term=032604&utm_content=order&y_source=1_NjE0NTUwNy01NjYtbG9jYXRpb24ub3JkZXJfdXJs"
+						},
+						{
+							"value": "https://locations.tacobell.com/la/lafayette/1935-west-pinhook-road.html?utm_source=yext&utm_campaign=yextpowerlistings&utm_medium=referral&utm_term=032604&utm_content=website&y_source=1_NjE0NTUwNy01NjYtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D"
+						}
+					],
+					"email": [
+						{
+							"value": "iamtacobell@tacobell.com"
+						}
+					]
+				}
+			],
+			"openingHours": [
+				{
+					"text": [
+						"Mon-Thu: 00:00 - 01:00, 07:00 - 03:00, 10:00 - 01:00, 10:00 - 23:59",
+						"Fri, Sat: 00:00 - 02:00, 07:00 - 04:00, 10:00 - 02:00",
+						"Sun: 07:00 - 03:00, 10:00 - 01:00, 10:00 - 01:00, 10:00 - 23:59"
+					],
+					"isOpen": true,
+					"structured": [
+						{
+							"start": "T000000",
+							"duration": "PT01H00M",
+							"recurrence": "FREQ:DAILY;BYDAY:MO,TU,WE,TH"
+						},
+						{
+							"start": "T070000",
+							"duration": "PT20H00M",
+							"recurrence": "FREQ:DAILY;BYDAY:MO,TU,WE,TH,SU"
+						},
+						{
+							"start": "T100000",
+							"duration": "PT15H00M",
+							"recurrence": "FREQ:DAILY;BYDAY:MO,TU,WE,TH,SU,SU"
+						},
+						{
+							"start": "T100000",
+							"duration": "PT13H59M",
+							"recurrence": "FREQ:DAILY;BYDAY:MO,TU,WE,TH,FR,SA,SU"
+						},
+						{
+							"start": "T000000",
+							"duration": "PT02H00M",
+							"recurrence": "FREQ:DAILY;BYDAY:FR,SA"
+						},
+						{
+							"start": "T070000",
+							"duration": "PT21H00M",
+							"recurrence": "FREQ:DAILY;BYDAY:FR,SA"
+						}
+					]
+				}
+			]
+		},
+		{
+			"title": "Taco Bell",
+			"id": "here:pds:place:8409vqs0-f596c1fd15f94635ae35c73803266bd8",
+			"ontologyId": "here:cm:ontology:taco_bell",
+			"resultType": "place",
+			"address": {
+				"label": "Taco Bell, 119 Ambassador Caffery Pkwy, Scott, LA 70583, United States",
+				"countryCode": "USA",
+				"countryName": "United States",
+				"stateCode": "LA",
+				"state": "Louisiana",
+				"county": "Lafayette",
+				"city": "Scott",
+				"street": "Ambassador Caffery Pkwy",
+				"postalCode": "70583",
+				"houseNumber": "119"
+			},
+			"position": {
+				"lat": 30.24378,
+				"lng": -92.0657
+			},
+			"access": [
+				{
+					"lat": 30.24378,
+					"lng": -92.06627
+				}
+			],
+			"distance": 5125,
+			"categories": [
+				{
+					"id": "100-1000-0009",
+					"name": "Fast Food",
+					"primary": true
+				},
+				{
+					"id": "100-1000-0000",
+					"name": "Restaurant"
+				},
+				{
+					"id": "100-1000-0003",
+					"name": "Take Out & Delivery Only"
+				}
+			],
+			"chains": [
+				{
+					"id": "1607"
+				}
+			],
+			"references": [
+				{
+					"supplier": {
+						"id": "core"
+					},
+					"id": "33699217"
+				},
+				{
+					"supplier": {
+						"id": "tripadvisor"
+					},
+					"id": "4542050"
+				},
+				{
+					"supplier": {
+						"id": "yelp"
+					},
+					"id": "zAVMvoFPY_CgYmoYjJLchA"
+				}
+			],
+			"foodTypes": [
+				{
+					"id": "101-000",
+					"name": "American",
+					"primary": true
+				}
+			],
+			"contacts": [
+				{
+					"phone": [
+						{
+							"value": "+13372611084"
+						}
+					],
+					"fax": [
+						{
+							"value": "9498632816"
+						}
+					],
+					"www": [
+						{
+							"value": "http://www.tacobell.com"
+						},
+						{
+							"value": "https://locations.tacobell.com/la/scott/119-ambassador-caffrey-pkwy.html"
+						},
+						{
+							"value": "https://locations.tacobell.com/la/scott/119-ambassador-caffrey-pkwy.html?utm_source=yext&utm_campaign=yextpowerlistings&utm_medium=referral&utm_term=032602&utm_content=website"
+						},
+						{
+							"value": "https://www.tacobell.com/food?utm_source=yext&utm_campaign=yextpowerlistings&utm_medium=referral&utm_term=032602&utm_content=menu&y_source=1_NjE0NjgzOS01NjYtbG9jYXRpb24ubWVudV91cmw%3D"
+						},
+						{
+							"value": "https://www.tacobell.com/food?utm_source=yext&utm_campaign=yextpowerlistings&utm_medium=referral&utm_term=032602&utm_content=order&y_source=1_NjE0NjgzOS01NjYtbG9jYXRpb24ub3JkZXJfdXJs"
+						},
+						{
+							"value": "https://locations.tacobell.com/la/scott/119-ambassador-caffrey-pkwy.html?utm_source=yext&utm_campaign=yextpowerlistings&utm_medium=referral&utm_term=032602&utm_content=website&y_source=1_NjE0NjgzOS01NjYtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D"
+						}
+					]
+				}
+			],
+			"openingHours": [
+				{
+					"text": [
+						"Mon-Thu: 00:00 - 01:00, 10:00 - 03:00, 10:00 - 23:59",
+						"Fri, Sat: 00:00 - 02:00, 10:00 - 04:00",
+						"Sun: 10:00 - 01:00, 10:00 - 03:00, 10:00 - 23:59"
+					],
+					"isOpen": true,
+					"structured": [
+						{
+							"start": "T000000",
+							"duration": "PT01H00M",
+							"recurrence": "FREQ:DAILY;BYDAY:MO,TU,WE,TH"
+						},
+						{
+							"start": "T100000",
+							"duration": "PT17H00M",
+							"recurrence": "FREQ:DAILY;BYDAY:MO,TU,WE,TH,SU"
+						},
+						{
+							"start": "T100000",
+							"duration": "PT13H59M",
+							"recurrence": "FREQ:DAILY;BYDAY:MO,TU,WE,TH,FR,SA,SU"
+						},
+						{
+							"start": "T000000",
+							"duration": "PT02H00M",
+							"recurrence": "FREQ:DAILY;BYDAY:FR,SA"
+						},
+						{
+							"start": "T100000",
+							"duration": "PT15H00M",
+							"recurrence": "FREQ:DAILY;BYDAY:SU"
+						}
+					]
+				}
+			]
+		},
+		{
+			"title": "Taco Bell",
+			"id": "here:pds:place:8409vqs4-7a431233e11447b893aeaebf18efc08a",
+			"ontologyId": "here:cm:ontology:taco_bell",
+			"resultType": "place",
+			"address": {
+				"label": "Taco Bell, 3103 Louisiana Ave, Lafayette, LA 70501, United States",
+				"countryCode": "USA",
+				"countryName": "United States",
+				"stateCode": "LA",
+				"state": "Louisiana",
+				"county": "Lafayette",
+				"city": "Lafayette",
+				"street": "Louisiana Ave",
+				"postalCode": "70501",
+				"houseNumber": "3103"
+			},
+			"position": {
+				"lat": 30.26306,
+				"lng": -91.9938
+			},
+			"access": [
+				{
+					"lat": 30.2627,
+					"lng": -91.99325
+				}
+			],
+			"distance": 5409,
+			"categories": [
+				{
+					"id": "100-1000-0009",
+					"name": "Fast Food",
+					"primary": true
+				},
+				{
+					"id": "100-1000-0000",
+					"name": "Restaurant"
+				},
+				{
+					"id": "100-1000-0003",
+					"name": "Take Out & Delivery Only"
+				}
+			],
+			"chains": [
+				{
+					"id": "1607"
+				}
+			],
+			"references": [
+				{
+					"supplier": {
+						"id": "core"
+					},
+					"id": "1039311784"
+				},
+				{
+					"supplier": {
+						"id": "tripadvisor"
+					},
+					"id": "4706058"
+				},
+				{
+					"supplier": {
+						"id": "yelp"
+					},
+					"id": "jqEEMbNU_uUO6xtV4xW63w"
+				}
+			],
+			"foodTypes": [
+				{
+					"id": "101-000",
+					"name": "American",
+					"primary": true
+				}
+			],
+			"contacts": [
+				{
+					"phone": [
+						{
+							"value": "+13372377425"
+						},
+						{
+							"value": "+13372377426"
+						},
+						{
+							"value": "+19858514334"
+						}
+					],
+					"www": [
+						{
+							"value": "http://www.tacobell.com"
+						},
+						{
+							"value": "https://locations.tacobell.com/la/lafayette/3103-louisiana-ave-.html?utm_source=yext&utm_campaign=yextpowerlistings&utm_medium=referral&utm_term=032606&utm_content=website"
+						},
+						{
+							"value": "https://www.tacobell.com/food?utm_source=yext&utm_campaign=yextpowerlistings&utm_medium=referral&utm_term=032606&utm_content=menu&y_source=1_NjE0NDMyNC01NjYtbG9jYXRpb24ubWVudV91cmw%3D"
+						},
+						{
+							"value": "https://www.tacobell.com/food?utm_source=yext&utm_campaign=yextpowerlistings&utm_medium=referral&utm_term=032606&utm_content=order&y_source=1_NjE0NDMyNC01NjYtbG9jYXRpb24ub3JkZXJfdXJs"
+						},
+						{
+							"value": "https://locations.tacobell.com/la/lafayette/3103-louisiana-ave-.html?utm_source=yext&utm_campaign=yextpowerlistings&utm_medium=referral&utm_term=032606&utm_content=website&y_source=1_NjE0NDMyNC01NjYtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D"
+						}
+					]
+				}
+			],
+			"openingHours": [
+				{
+					"text": [
+						"Mon-Thu, Sun: 07:00 - 02:00, 10:00 - 02:00",
+						"Fri, Sat: 07:00 - 04:00, 10:00 - 03:00"
+					],
+					"isOpen": true,
+					"structured": [
+						{
+							"start": "T070000",
+							"duration": "PT19H00M",
+							"recurrence": "FREQ:DAILY;BYDAY:MO,TU,WE,TH,SU"
+						},
+						{
+							"start": "T100000",
+							"duration": "PT16H00M",
+							"recurrence": "FREQ:DAILY;BYDAY:MO,TU,WE,TH,SU"
+						},
+						{
+							"start": "T070000",
+							"duration": "PT21H00M",
+							"recurrence": "FREQ:DAILY;BYDAY:FR,SA"
+						},
+						{
+							"start": "T100000",
+							"duration": "PT17H00M",
+							"recurrence": "FREQ:DAILY;BYDAY:FR,SA"
+						}
+					]
+				}
+			]
+		},
+		{
+			"title": "Taco Bell",
+			"id": "here:pds:place:8409vqe8-4774046e59ab4042988e3fa16b329241",
+			"ontologyId": "here:cm:ontology:taco_bell",
+			"resultType": "place",
+			"address": {
+				"label": "Taco Bell, 3630 Ambassador Caffery Pkwy, Lafayette, LA 70503, United States",
+				"countryCode": "USA",
+				"countryName": "United States",
+				"stateCode": "LA",
+				"state": "Louisiana",
+				"county": "Lafayette",
+				"city": "Lafayette",
+				"street": "Ambassador Caffery Pkwy",
+				"postalCode": "70503",
+				"houseNumber": "3630"
+			},
+			"position": {
+				"lat": 30.17372,
+				"lng": -92.06992
+			},
+			"access": [
+				{
+					"lat": 30.174,
+					"lng": -92.0696
+				}
+			],
+			"distance": 7036,
+			"categories": [
+				{
+					"id": "100-1000-0009",
+					"name": "Fast Food",
+					"primary": true
+				},
+				{
+					"id": "100-1000-0000",
+					"name": "Restaurant"
+				},
+				{
+					"id": "100-1000-0003",
+					"name": "Take Out & Delivery Only"
+				}
+			],
+			"chains": [
+				{
+					"id": "1607"
+				}
+			],
+			"references": [
+				{
+					"supplier": {
+						"id": "core"
+					},
+					"id": "33729437"
+				},
+				{
+					"supplier": {
+						"id": "tripadvisor"
+					},
+					"id": "15652839"
+				},
+				{
+					"supplier": {
+						"id": "yelp"
+					},
+					"id": "tP-7_29PNuS2WrjrkhKr_w"
+				}
+			],
+			"foodTypes": [
+				{
+					"id": "101-000",
+					"name": "American",
+					"primary": true
+				}
+			],
+			"contacts": [
+				{
+					"phone": [
+						{
+							"value": "+13374069106"
+						}
+					],
+					"fax": [
+						{
+							"value": "(337) 406-2815"
+						}
+					],
+					"www": [
+						{
+							"value": "http://www.tacobell.com"
+						},
+						{
+							"value": "https://locations.tacobell.com/la/lafayette/3630-ambassador-caffery-pkwy.html?utm_source=yext&utm_campaign=googlelistings&utm_medium=referral&utm_term=032605&utm_content=website"
+						},
+						{
+							"value": "https://locations.tacobell.com/la/lafayette/3630-ambassador-caffery-pkwy.html?utm_source=yext&utm_campaign=yextpowerlistings&utm_medium=referral&utm_term=032605&utm_content=website"
+						},
+						{
+							"value": "https://www.tacobell.com/food?utm_source=yext&utm_campaign=yextpowerlistings&utm_medium=referral&utm_term=032605&utm_content=menu&y_source=1_NjE0Mzk1NC01NjYtbG9jYXRpb24ubWVudV91cmw%3D"
+						},
+						{
+							"value": "https://www.tacobell.com/food?utm_source=yext&utm_campaign=yextpowerlistings&utm_medium=referral&utm_term=032605&utm_content=order&y_source=1_NjE0Mzk1NC01NjYtbG9jYXRpb24ub3JkZXJfdXJs"
+						},
+						{
+							"value": "https://locations.tacobell.com/la/lafayette/3630-ambassador-caffery-pkwy.html?utm_source=yext&utm_campaign=yextpowerlistings&utm_medium=referral&utm_term=032605&utm_content=website&y_source=1_NjE0Mzk1NC01NjYtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D"
+						}
+					],
+					"email": [
+						{
+							"value": "iamtacobell@tacobell.com"
+						}
+					]
+				}
+			],
+			"openingHours": [
+				{
+					"text": [
+						"Mon-Thu, Sun: 07:00 - 02:00, 10:00 - 02:00",
+						"Fri, Sat: 07:00 - 04:00, 10:00 - 04:00"
+					],
+					"isOpen": true,
+					"structured": [
+						{
+							"start": "T070000",
+							"duration": "PT19H00M",
+							"recurrence": "FREQ:DAILY;BYDAY:MO,TU,WE,TH,SU"
+						},
+						{
+							"start": "T100000",
+							"duration": "PT16H00M",
+							"recurrence": "FREQ:DAILY;BYDAY:MO,TU,WE,TH,SU"
+						},
+						{
+							"start": "T070000",
+							"duration": "PT21H00M",
+							"recurrence": "FREQ:DAILY;BYDAY:FR,SA"
+						},
+						{
+							"start": "T100000",
+							"duration": "PT18H00M",
+							"recurrence": "FREQ:DAILY;BYDAY:FR,SA"
+						}
+					]
+				}
+			]
+		},
+		{
+			"title": "Taco Bell",
+			"id": "here:pds:place:840jx7ps-9fe3e503ec6e0a791a29ef019238f697",
+			"ontologyId": "here:cm:ontology:taco_bell",
+			"resultType": "place",
+			"address": {
+				"label": "Taco Bell, 2317 Kaliste Saloom Rd, Lafayette, LA 70508, United States",
+				"countryCode": "USA",
+				"countryName": "United States",
+				"stateCode": "LA",
+				"state": "Louisiana",
+				"county": "Lafayette",
+				"city": "Lafayette",
+				"street": "Kaliste Saloom Rd",
+				"postalCode": "70508",
+				"houseNumber": "2317"
+			},
+			"position": {
+				"lat": 30.15935,
+				"lng": -92.04489
+			},
+			"access": [
+				{
+					"lat": 30.15961,
+					"lng": -92.04526
+				}
+			],
+			"distance": 7156,
+			"categories": [
+				{
+					"id": "100-1000-0009",
+					"name": "Fast Food",
+					"primary": true
+				},
+				{
+					"id": "100-1000-0000",
+					"name": "Restaurant"
+				},
+				{
+					"id": "100-1000-0003",
+					"name": "Take Out & Delivery Only"
+				}
+			],
+			"chains": [
+				{
+					"id": "1607"
+				}
+			],
+			"references": [
+				{
+					"supplier": {
+						"id": "core"
+					},
+					"id": "1144342099"
+				},
+				{
+					"supplier": {
+						"id": "tripadvisor"
+					},
+					"id": "15652986"
+				},
+				{
+					"supplier": {
+						"id": "yelp"
+					},
+					"id": "xgATSq6TJKZy4vUhTWEE0g"
+				}
+			],
+			"foodTypes": [
+				{
+					"id": "101-000",
+					"name": "American",
+					"primary": true
+				}
+			],
+			"contacts": [
+				{
+					"phone": [
+						{
+							"value": "+13379898659"
+						}
+					],
+					"www": [
+						{
+							"value": "http://www.tacobell.com"
+						},
+						{
+							"value": "https://locations.tacobell.com/la/lafayette/2317-kaliste-saloom-road.html?utm_source=yext&utm_campaign=yextpowerlistings&utm_medium=referral&utm_term=032607&utm_content=website"
+						},
+						{
+							"value": "https://www.tacobell.com"
+						},
+						{
+							"value": "https://www.tacobell.com/food?utm_source=yext&utm_campaign=yextpowerlistings&utm_medium=referral&utm_term=032607&utm_content=menu&y_source=1_NjE0NTAyNy01NjYtbG9jYXRpb24ubWVudV91cmw%3D"
+						},
+						{
+							"value": "https://www.tacobell.com/food?utm_source=yext&utm_campaign=yextpowerlistings&utm_medium=referral&utm_term=032607&utm_content=order&y_source=1_NjE0NTAyNy01NjYtbG9jYXRpb24ub3JkZXJfdXJs"
+						},
+						{
+							"value": "https://locations.tacobell.com/la/lafayette/2317-kaliste-saloom-road.html?utm_source=yext&utm_campaign=yextpowerlistings&utm_medium=referral&utm_term=032607&utm_content=website&y_source=1_NjE0NTAyNy01NjYtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D"
+						}
+					]
+				}
+			],
+			"openingHours": [
+				{
+					"text": [
+						"Mon, Tue: 00:00 - 02:00, 07:00 - 02:00, 07:00 - 24:00",
+						"Wed: 00:00 - 02:00, 07:00 - 03:00, 10:00 - 24:00",
+						"Thu: 00:00 - 03:00, 07:00 - 03:00, 10:00 - 24:00",
+						"Fri: 00:00 - 03:00, 07:00 - 04:00, 10:00 - 01:00",
+						"Sat: 00:00 - 04:00, 07:00 - 04:00, 10:00 - 01:00",
+						"Sun: 00:00 - 04:00, 07:00 - 02:00, 07:00 - 24:00"
+					],
+					"isOpen": true,
+					"structured": [
+						{
+							"start": "T000000",
+							"duration": "PT02H00M",
+							"recurrence": "FREQ:DAILY;BYDAY:MO,TU,WE"
+						},
+						{
+							"start": "T070000",
+							"duration": "PT19H00M",
+							"recurrence": "FREQ:DAILY;BYDAY:MO,TU,SU"
+						},
+						{
+							"start": "T070000",
+							"duration": "PT16H59M",
+							"recurrence": "FREQ:DAILY;BYDAY:MO,TU,WE,TH,FR,SA,SU"
+						},
+						{
+							"start": "T000000",
+							"duration": "PT03H00M",
+							"recurrence": "FREQ:DAILY;BYDAY:TH,FR"
+						},
+						{
+							"start": "T000000",
+							"duration": "PT04H00M",
+							"recurrence": "FREQ:DAILY;BYDAY:SA,SU"
+						}
+					]
+				}
+			]
+		},
+		{
+			"title": "Taco Bell",
+			"id": "here:pds:place:8409vqe7-568711ed58114a05a2cc3fc5a65785a1",
+			"ontologyId": "here:cm:ontology:taco_bell",
+			"resultType": "place",
+			"address": {
+				"label": "Taco Bell, 1209 Albertson Pkwy, Broussard, LA 70518, United States",
+				"countryCode": "USA",
+				"countryName": "United States",
+				"stateCode": "LA",
+				"state": "Louisiana",
+				"county": "Lafayette",
+				"city": "Broussard",
+				"street": "Albertson Pkwy",
+				"postalCode": "70518",
+				"houseNumber": "1209"
+			},
+			"position": {
+				"lat": 30.14141,
+				"lng": -91.94768
+			},
+			"access": [
+				{
+					"lat": 30.14084,
+					"lng": -91.94777
+				}
+			],
+			"distance": 11167,
+			"categories": [
+				{
+					"id": "100-1000-0009",
+					"name": "Fast Food",
+					"primary": true
+				},
+				{
+					"id": "100-1000-0000",
+					"name": "Restaurant"
+				},
+				{
+					"id": "100-1000-0003",
+					"name": "Take Out & Delivery Only"
+				}
+			],
+			"chains": [
+				{
+					"id": "1607"
+				}
+			],
+			"references": [
+				{
+					"supplier": {
+						"id": "core"
+					},
+					"id": "1130496757"
+				},
+				{
+					"supplier": {
+						"id": "tripadvisor"
+					},
+					"id": "15653171"
+				},
+				{
+					"supplier": {
+						"id": "yelp"
+					},
+					"id": "Qcl8WzlTt2zMipsoCBVr4A"
+				}
+			],
+			"foodTypes": [
+				{
+					"id": "101-000",
+					"name": "American",
+					"primary": true
+				}
+			],
+			"contacts": [
+				{
+					"phone": [
+						{
+							"value": "+13378379730"
+						},
+						{
+							"value": "+13378379779"
+						}
+					],
+					"www": [
+						{
+							"value": "http://www.tacobell.com"
+						},
+						{
+							"value": "https://locations.tacobell.com/la/broussard/1209-albertson-parkway.html?utm_source=yext&utm_campaign=yextpowerlistings&utm_medium=referral&utm_term=022772&utm_content=website"
+						},
+						{
+							"value": "https://www.tacobell.com/locations"
+						},
+						{
+							"value": "https://www.tacobell.com/food?utm_source=yext&utm_campaign=yextpowerlistings&utm_medium=referral&utm_term=022772&utm_content=menu&y_source=1_NjE0Njc3Mi01NjYtbG9jYXRpb24ubWVudV91cmw%3D"
+						},
+						{
+							"value": "https://www.tacobell.com/food?utm_source=yext&utm_campaign=yextpowerlistings&utm_medium=referral&utm_term=022772&utm_content=order&y_source=1_NjE0Njc3Mi01NjYtbG9jYXRpb24ub3JkZXJfdXJs"
+						},
+						{
+							"value": "https://locations.tacobell.com/la/broussard/1209-albertson-parkway.html?utm_source=yext&utm_campaign=yextpowerlistings&utm_medium=referral&utm_term=022772&utm_content=website&y_source=1_NjE0Njc3Mi01NjYtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D"
+						}
+					],
+					"email": [
+						{
+							"value": "iamtacobell@tacobell.com"
+						}
+					]
+				}
+			],
+			"openingHours": [
+				{
+					"text": [
+						"Mon-Thu, Sun: 10:00 - 02:00",
+						"Fri, Sat: 10:00 - 04:00"
+					],
+					"isOpen": true,
+					"structured": [
+						{
+							"start": "T100000",
+							"duration": "PT16H00M",
+							"recurrence": "FREQ:DAILY;BYDAY:MO,TU,WE,TH,SU"
+						},
+						{
+							"start": "T100000",
+							"duration": "PT18H00M",
+							"recurrence": "FREQ:DAILY;BYDAY:FR,SA"
+						}
+					]
+				}
+			]
+		},
+		{
+			"title": "Taco Bell",
+			"id": "here:pds:place:840jx7ps-a9c66e5bcfd00632e54f6565d3889289",
+			"ontologyId": "here:cm:ontology:taco_bell",
+			"resultType": "place",
+			"address": {
+				"label": "Taco Bell, 3924 NE Evangeline Trwy, Carencro, LA 70520, United States",
+				"countryCode": "USA",
+				"countryName": "United States",
+				"stateCode": "LA",
+				"state": "Louisiana",
+				"county": "Lafayette",
+				"city": "Carencro",
+				"street": "NE Evangeline Trwy",
+				"postalCode": "70520",
+				"houseNumber": "3924"
+			},
+			"position": {
+				"lat": 30.32236,
+				"lng": -92.03201
+			},
+			"access": [
+				{
+					"lat": 30.32229,
+					"lng": -92.03243
+				}
+			],
+			"distance": 11440,
+			"categories": [
+				{
+					"id": "100-1000-0009",
+					"name": "Fast Food",
+					"primary": true
+				},
+				{
+					"id": "100-1000-0000",
+					"name": "Restaurant"
+				},
+				{
+					"id": "100-1000-0003",
+					"name": "Take Out & Delivery Only"
+				}
+			],
+			"chains": [
+				{
+					"id": "1607"
+				}
+			],
+			"references": [
+				{
+					"supplier": {
+						"id": "core"
+					},
+					"id": "1131733327"
+				},
+				{
+					"supplier": {
+						"id": "tripadvisor"
+					},
+					"id": "15827972"
+				},
+				{
+					"supplier": {
+						"id": "yelp"
+					},
+					"id": "50a2Ifmtxh5nfZujDCjDqA"
+				}
+			],
+			"foodTypes": [
+				{
+					"id": "101-000",
+					"name": "American",
+					"primary": true
+				}
+			],
+			"contacts": [
+				{
+					"phone": [
+						{
+							"value": "+13378966538"
+						}
+					],
+					"www": [
+						{
+							"value": "http://www.tacobell.com"
+						},
+						{
+							"value": "https://locations.tacobell.com/la/carencro/3924-ne-evangeline-trwy.html?utm_source=yext&utm_campaign=yextpowerlistings&utm_medium=referral&utm_term=032608&utm_content=website"
+						},
+						{
+							"value": "https://www.tacobell.com/locations"
+						},
+						{
+							"value": "https://www.tacobell.com/food?utm_source=yext&utm_campaign=yextpowerlistings&utm_medium=referral&utm_term=032608&utm_content=menu&y_source=1_NjE0MzgyMS01NjYtbG9jYXRpb24ubWVudV91cmw%3D"
+						},
+						{
+							"value": "https://www.tacobell.com/food?utm_source=yext&utm_campaign=yextpowerlistings&utm_medium=referral&utm_term=032608&utm_content=order&y_source=1_NjE0MzgyMS01NjYtbG9jYXRpb24ub3JkZXJfdXJs"
+						},
+						{
+							"value": "https://locations.tacobell.com/la/carencro/3924-ne-evangeline-trwy.html?utm_source=yext&utm_campaign=yextpowerlistings&utm_medium=referral&utm_term=032608&utm_content=website&y_source=1_NjE0MzgyMS01NjYtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D"
+						}
+					]
+				}
+			],
+			"openingHours": [
+				{
+					"text": [
+						"Mon-Thu, Sun: 10:00 - 02:00",
+						"Fri, Sat: 10:00 - 04:00"
+					],
+					"isOpen": true,
+					"structured": [
+						{
+							"start": "T100000",
+							"duration": "PT16H00M",
+							"recurrence": "FREQ:DAILY;BYDAY:MO,TU,WE,TH,SU"
+						},
+						{
+							"start": "T100000",
+							"duration": "PT18H00M",
+							"recurrence": "FREQ:DAILY;BYDAY:FR,SA"
+						}
+					]
+				}
+			]
+		},
+		{
+			"title": "Taco Bell",
+			"id": "here:pds:place:8403fv6k-99ec94b9892509be84d250e1be33929c",
+			"ontologyId": "here:cm:ontology:taco_bell",
+			"resultType": "place",
+			"address": {
+				"label": "Taco Bell, 3100 E Milton Ave, Youngsville, LA 70592, United States",
+				"countryCode": "USA",
+				"countryName": "United States",
+				"stateCode": "LA",
+				"state": "Louisiana",
+				"county": "Lafayette",
+				"city": "Youngsville",
+				"street": "E Milton Ave",
+				"postalCode": "70592",
+				"houseNumber": "3100"
+			},
+			"position": {
+				"lat": 30.1091,
+				"lng": -92.01085
+			},
+			"access": [
+				{
+					"lat": 30.10924,
+					"lng": -92.01085
+				}
+			],
+			"distance": 12363,
+			"categories": [
+				{
+					"id": "100-1000-0009",
+					"name": "Fast Food",
+					"primary": true
+				},
+				{
+					"id": "100-1000-0000",
+					"name": "Restaurant"
+				},
+				{
+					"id": "100-1000-0003",
+					"name": "Take Out & Delivery Only"
+				}
+			],
+			"chains": [
+				{
+					"id": "1607"
+				}
+			],
+			"references": [
+				{
+					"supplier": {
+						"id": "tripadvisor"
+					},
+					"id": "15652914"
+				},
+				{
+					"supplier": {
+						"id": "yelp"
+					},
+					"id": "RJtwv7cz4HsW9GztRtgFjg"
+				}
+			],
+			"foodTypes": [
+				{
+					"id": "101-000",
+					"name": "American",
+					"primary": true
+				}
+			],
+			"contacts": [
+				{
+					"phone": [
+						{
+							"value": "+13378562693"
+						}
+					],
+					"www": [
+						{
+							"value": "http://www.tacobell.com"
+						},
+						{
+							"value": "https://locations.tacobell.com/la/youngsville/3100-e--milton-ave.html?utm_source=yext&utm_campaign=yextpowerlistings&utm_medium=referral&utm_term=029737&utm_content=website"
+						},
+						{
+							"value": "https://www.tacobell.com/food?utm_source=yext&utm_campaign=yextpowerlistings&utm_medium=referral&utm_term=029737&utm_content=menu&y_source=1_NjE0NDMyOC01NjYtbG9jYXRpb24ubWVudV91cmw%3D"
+						},
+						{
+							"value": "https://www.tacobell.com/food?utm_source=yext&utm_campaign=yextpowerlistings&utm_medium=referral&utm_term=029737&utm_content=order&y_source=1_NjE0NDMyOC01NjYtbG9jYXRpb24ub3JkZXJfdXJs"
+						},
+						{
+							"value": "https://locations.tacobell.com/la/youngsville/3100-e--milton-ave.html?utm_source=yext&utm_campaign=yextpowerlistings&utm_medium=referral&utm_term=029737&utm_content=website&y_source=1_NjE0NDMyOC01NjYtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D"
+						}
+					]
+				}
+			],
+			"openingHours": [
+				{
+					"text": [
+						"Mon-Thu, Sun: 07:00 - 24:00, 10:00 - 23:00",
+						"Fri, Sat: 07:00 - 03:00, 10:00 - 02:00"
+					],
+					"isOpen": true,
+					"structured": [
+						{
+							"start": "T070000",
+							"duration": "PT17H00M",
+							"recurrence": "FREQ:DAILY;BYDAY:MO,TU,WE,TH,SU"
+						},
+						{
+							"start": "T100000",
+							"duration": "PT13H00M",
+							"recurrence": "FREQ:DAILY;BYDAY:MO,TU,WE,TH,SU"
+						},
+						{
+							"start": "T070000",
+							"duration": "PT20H00M",
+							"recurrence": "FREQ:DAILY;BYDAY:FR,SA"
+						},
+						{
+							"start": "T100000",
+							"duration": "PT16H00M",
+							"recurrence": "FREQ:DAILY;BYDAY:FR,SA"
+						}
+					]
+				}
+			]
+		},
+		{
+			"title": "Taco Bell",
+			"id": "here:pds:place:8409vqsk-1b41e2db68ec4d94976f576d40572461",
+			"ontologyId": "here:cm:ontology:taco_bell",
+			"resultType": "place",
+			"address": {
+				"label": "Taco Bell, 1409 Rees St, Breaux Bridge, LA 70517, United States",
+				"countryCode": "USA",
+				"countryName": "United States",
+				"stateCode": "LA",
+				"state": "Louisiana",
+				"county": "St Martin",
+				"city": "Breaux Bridge",
+				"street": "Rees St",
+				"postalCode": "70517",
+				"houseNumber": "1409"
+			},
+			"position": {
+				"lat": 30.28534,
+				"lng": -91.90723
+			},
+			"access": [
+				{
+					"lat": 30.28569,
+					"lng": -91.90683
+				}
+			],
+			"distance": 13043,
+			"categories": [
+				{
+					"id": "100-1000-0009",
+					"name": "Fast Food",
+					"primary": true
+				},
+				{
+					"id": "100-1000-0000",
+					"name": "Restaurant"
+				},
+				{
+					"id": "100-1000-0003",
+					"name": "Take Out & Delivery Only"
+				}
+			],
+			"chains": [
+				{
+					"id": "1607"
+				}
+			],
+			"references": [
+				{
+					"supplier": {
+						"id": "core"
+					},
+					"id": "33690402"
+				},
+				{
+					"supplier": {
+						"id": "tripadvisor"
+					},
+					"id": "4660764"
+				},
+				{
+					"supplier": {
+						"id": "yelp"
+					},
+					"id": "dsSFMs0lj2HX_W44u1nQtg"
+				}
+			],
+			"foodTypes": [
+				{
+					"id": "101-000",
+					"name": "American",
+					"primary": true
+				}
+			],
+			"contacts": [
+				{
+					"phone": [
+						{
+							"value": "+13373326834"
+						}
+					],
+					"www": [
+						{
+							"value": "http://www.tacobell.com"
+						},
+						{
+							"value": "https://locations.tacobell.com/la/breaux-bridge/1409-rees-st.html"
+						},
+						{
+							"value": "https://locations.tacobell.com/la/breaux-bridge/1409-rees-st.html?utm_source=yext&utm_campaign=yextpowerlistings&utm_medium=referral&utm_term=026637&utm_content=website"
+						},
+						{
+							"value": "https://www.tacobell.com/food?utm_source=yext&utm_campaign=yextpowerlistings&utm_medium=referral&utm_term=026637&utm_content=menu&y_source=1_NjE0NjM0MC01NjYtbG9jYXRpb24ubWVudV91cmw%3D"
+						},
+						{
+							"value": "https://www.tacobell.com/food?utm_source=yext&utm_campaign=yextpowerlistings&utm_medium=referral&utm_term=026637&utm_content=order&y_source=1_NjE0NjM0MC01NjYtbG9jYXRpb24ub3JkZXJfdXJs"
+						},
+						{
+							"value": "https://locations.tacobell.com/la/breaux-bridge/1409-rees-st.html?utm_source=yext&utm_campaign=yextpowerlistings&utm_medium=referral&utm_term=026637&utm_content=website&y_source=1_NjE0NjM0MC01NjYtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D"
+						}
+					]
+				}
+			],
+			"openingHours": [
+				{
+					"text": [
+						"Mon-Thu, Sun: 07:00 - 02:00, 10:00 - 01:00",
+						"Fri, Sat: 07:00 - 04:00, 10:00 - 02:00"
+					],
+					"isOpen": true,
+					"structured": [
+						{
+							"start": "T070000",
+							"duration": "PT19H00M",
+							"recurrence": "FREQ:DAILY;BYDAY:MO,TU,WE,TH,SU"
+						},
+						{
+							"start": "T100000",
+							"duration": "PT15H00M",
+							"recurrence": "FREQ:DAILY;BYDAY:MO,TU,WE,TH,SU"
+						},
+						{
+							"start": "T070000",
+							"duration": "PT21H00M",
+							"recurrence": "FREQ:DAILY;BYDAY:FR,SA"
+						},
+						{
+							"start": "T100000",
+							"duration": "PT16H00M",
+							"recurrence": "FREQ:DAILY;BYDAY:FR,SA"
+						}
+					]
+				}
+			]
+		},
+		{
+			"title": "Taco Bell",
+			"id": "here:pds:place:8409vqkh-af13ccea16964645b4711dc1aa3a8ff8",
+			"ontologyId": "here:cm:ontology:taco_bell",
+			"resultType": "place",
+			"address": {
+				"label": "Taco Bell, 1049 Church Point Hwy, Rayne, LA 70578, United States",
+				"countryCode": "USA",
+				"countryName": "United States",
+				"stateCode": "LA",
+				"state": "Louisiana",
+				"county": "Acadia",
+				"city": "Rayne",
+				"street": "Church Point Hwy",
+				"postalCode": "70578",
+				"houseNumber": "1049"
+			},
+			"position": {
+				"lat": 30.25409,
+				"lng": -92.27003
+			},
+			"access": [
+				{
+					"lat": 30.25407,
+					"lng": -92.26969
+				}
+			],
+			"distance": 24317,
+			"categories": [
+				{
+					"id": "100-1000-0000",
+					"name": "Restaurant",
+					"primary": true
+				},
+				{
+					"id": "100-1000-0003",
+					"name": "Take Out & Delivery Only"
+				},
+				{
+					"id": "100-1000-0009",
+					"name": "Fast Food"
+				}
+			],
+			"chains": [
+				{
+					"id": "1607"
+				}
+			],
+			"references": [
+				{
+					"supplier": {
+						"id": "tripadvisor"
+					},
+					"id": "15864873"
+				},
+				{
+					"supplier": {
+						"id": "yelp"
+					},
+					"id": "QGirRi_tUrMoSL5NZdqr9Q"
+				}
+			],
+			"foodTypes": [
+				{
+					"id": "101-000",
+					"name": "American",
+					"primary": true
+				}
+			],
+			"contacts": [
+				{
+					"phone": [
+						{
+							"value": "+13373347745"
+						}
+					],
+					"www": [
+						{
+							"value": "http://www.tacobell.com"
+						},
+						{
+							"value": "https://locations.tacobell.com/la/rayne/1049-church-point-highway.html?utm_source=yext&utm_campaign=yextpowerlistings&utm_medium=referral&utm_term=034830&utm_content=website"
+						},
+						{
+							"value": "https://www.tacobell.com/food?utm_source=yext&utm_campaign=yextpowerlistings&utm_medium=referral&utm_term=034830&utm_content=menu&y_source=1_MTA3MDgwNDAtNTY2LWxvY2F0aW9uLm1lbnVfdXJs"
+						},
+						{
+							"value": "https://www.tacobell.com/food?utm_source=yext&utm_campaign=yextpowerlistings&utm_medium=referral&utm_term=034830&utm_content=order&y_source=1_MTA3MDgwNDAtNTY2LWxvY2F0aW9uLm9yZGVyX3VybA%3D%3D"
+						},
+						{
+							"value": "https://locations.tacobell.com/la/rayne/1049-church-point-highway.html?utm_source=yext&utm_campaign=yextpowerlistings&utm_medium=referral&utm_term=034830&utm_content=website&y_source=1_MTA3MDgwNDAtNTY2LWxvY2F0aW9uLndlYnNpdGU%3D"
+						}
+					]
+				}
+			],
+			"openingHours": [
+				{
+					"text": [
+						"Mon-Thu, Sun: 10:00 - 01:00, 10:00 - 22:00",
+						"Fri, Sat: 10:00 - 04:00"
+					],
+					"isOpen": true,
+					"structured": [
+						{
+							"start": "T100000",
+							"duration": "PT15H00M",
+							"recurrence": "FREQ:DAILY;BYDAY:MO,TU,WE,TH,SU"
+						},
+						{
+							"start": "T100000",
+							"duration": "PT12H00M",
+							"recurrence": "FREQ:DAILY;BYDAY:MO,TU,WE,TH,FR,SA,SU"
+						}
+					]
+				}
+			]
+		},
+		{
+			"title": "Taco Bell",
+			"id": "here:pds:place:8409vq6x-1809b594ec2642899726a2cf87a71c92",
+			"ontologyId": "here:cm:ontology:taco_bell",
+			"resultType": "place",
+			"address": {
+				"label": "Taco Bell, 600 Veterans Memorial Dr, Abbeville, LA 70510, United States",
+				"countryCode": "USA",
+				"countryName": "United States",
+				"stateCode": "LA",
+				"state": "Louisiana",
+				"county": "Vermilion",
+				"city": "Abbeville",
+				"street": "Veterans Memorial Dr",
+				"postalCode": "70510",
+				"houseNumber": "600"
+			},
+			"position": {
+				"lat": 29.98208,
+				"lng": -92.12795
+			},
+			"access": [
+				{
+					"lat": 29.98227,
+					"lng": -92.12791
+				}
+			],
+			"distance": 28421,
+			"categories": [
+				{
+					"id": "100-1000-0009",
+					"name": "Fast Food",
+					"primary": true
+				},
+				{
+					"id": "100-1000-0000",
+					"name": "Restaurant"
+				},
+				{
+					"id": "100-1000-0003",
+					"name": "Take Out & Delivery Only"
+				}
+			],
+			"chains": [
+				{
+					"id": "1607"
+				}
+			],
+			"references": [
+				{
+					"supplier": {
+						"id": "core"
+					},
+					"id": "1101128634"
+				},
+				{
+					"supplier": {
+						"id": "tripadvisor"
+					},
+					"id": "4629239"
+				},
+				{
+					"supplier": {
+						"id": "yelp"
+					},
+					"id": "EKa3I6YXhUbSAHryulDvGw"
+				}
+			],
+			"foodTypes": [
+				{
+					"id": "101-000",
+					"name": "American",
+					"primary": true
+				}
+			],
+			"contacts": [
+				{
+					"phone": [
+						{
+							"value": "+13378938311"
+						},
+						{
+							"value": "+13378938401"
+						}
+					],
+					"fax": [
+						{
+							"value": "(337) 893-0789"
+						}
+					],
+					"www": [
+						{
+							"value": "http://www.tacobell.com"
+						},
+						{
+							"value": "https://locations.tacobell.com/la/abbeville/600-veterans-memorial-dr.html?utm_source=yext&utm_campaign=yextpowerlistings&utm_medium=referral&utm_term=023902&utm_content=website"
+						},
+						{
+							"value": "https://www.tacobell.com"
+						},
+						{
+							"value": "https://www.tacobell.com/food?utm_source=yext&utm_campaign=yextpowerlistings&utm_medium=referral&utm_term=023902&utm_content=menu&y_source=1_NjE0Mjg2MS01NjYtbG9jYXRpb24ubWVudV91cmw%3D"
+						},
+						{
+							"value": "https://www.tacobell.com/food?utm_source=yext&utm_campaign=yextpowerlistings&utm_medium=referral&utm_term=023902&utm_content=order&y_source=1_NjE0Mjg2MS01NjYtbG9jYXRpb24ub3JkZXJfdXJs"
+						},
+						{
+							"value": "https://locations.tacobell.com/la/abbeville/600-veterans-memorial-dr.html?utm_source=yext&utm_campaign=yextpowerlistings&utm_medium=referral&utm_term=023902&utm_content=website&y_source=1_NjE0Mjg2MS01NjYtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D"
+						}
+					],
+					"email": [
+						{
+							"value": "campisil@tacobell.com"
+						}
+					]
+				}
+			],
+			"openingHours": [
+				{
+					"text": [
+						"Mon-Thu, Sun: 07:00 - 02:00, 10:00 - 24:00",
+						"Fri, Sat: 07:00 - 04:00, 10:00 - 01:00"
+					],
+					"isOpen": true,
+					"structured": [
+						{
+							"start": "T070000",
+							"duration": "PT19H00M",
+							"recurrence": "FREQ:DAILY;BYDAY:MO,TU,WE,TH,SU"
+						},
+						{
+							"start": "T100000",
+							"duration": "PT14H00M",
+							"recurrence": "FREQ:DAILY;BYDAY:MO,TU,WE,TH,SU"
+						},
+						{
+							"start": "T070000",
+							"duration": "PT21H00M",
+							"recurrence": "FREQ:DAILY;BYDAY:FR,SA"
+						},
+						{
+							"start": "T100000",
+							"duration": "PT15H00M",
+							"recurrence": "FREQ:DAILY;BYDAY:FR,SA"
+						}
+					]
+				}
+			]
+		},
+		{
+			"title": "Taco Bell",
+			"id": "here:pds:place:8409vqdw-51bd00970caf4e1a941f0709c0b16761",
+			"ontologyId": "here:cm:ontology:taco_bell",
+			"resultType": "place",
+			"address": {
+				"label": "Taco Bell, 824 E Admiral Doyle Dr, New Iberia, LA 70560, United States",
+				"countryCode": "USA",
+				"countryName": "United States",
+				"stateCode": "LA",
+				"state": "Louisiana",
+				"county": "Iberia",
+				"city": "New Iberia",
+				"street": "E Admiral Doyle Dr",
+				"postalCode": "70560",
+				"houseNumber": "824"
+			},
+			"position": {
+				"lat": 29.98668,
+				"lng": -91.82502
+			},
+			"access": [
+				{
+					"lat": 29.98744,
+					"lng": -91.82443
+				}
+			],
+			"distance": 32014,
+			"categories": [
+				{
+					"id": "100-1000-0009",
+					"name": "Fast Food",
+					"primary": true
+				},
+				{
+					"id": "100-1000-0000",
+					"name": "Restaurant"
+				},
+				{
+					"id": "100-1000-0003",
+					"name": "Take Out & Delivery Only"
+				}
+			],
+			"chains": [
+				{
+					"id": "1607"
+				}
+			],
+			"references": [
+				{
+					"supplier": {
+						"id": "core"
+					},
+					"id": "33687786"
+				},
+				{
+					"supplier": {
+						"id": "tripadvisor"
+					},
+					"id": "5027340"
+				},
+				{
+					"supplier": {
+						"id": "yelp"
+					},
+					"id": "cx7pojUCE6ejlOrr-oCvUw"
+				}
+			],
+			"foodTypes": [
+				{
+					"id": "101-000",
+					"name": "American",
+					"primary": true
+				}
+			],
+			"contacts": [
+				{
+					"phone": [
+						{
+							"value": "+13373646320"
+						},
+						{
+							"value": "+13373646636"
+						}
+					],
+					"www": [
+						{
+							"value": "http://www.tacobell.com"
+						},
+						{
+							"value": "https://locations.tacobell.com/la/new-iberia/824-e--admiral-doyle-drive.html?utm_source=yext&utm_campaign=googlelistings&utm_medium=referral&utm_term=002079&utm_content=website"
+						},
+						{
+							"value": "https://locations.tacobell.com/la/new-iberia/824-e--admiral-doyle-drive.html?utm_source=yext&utm_campaign=yextpowerlistings&utm_medium=referral&utm_term=002079&utm_content=website"
+						},
+						{
+							"value": "https://www.tacobell.com/food?utm_source=yext&utm_campaign=yextpowerlistings&utm_medium=referral&utm_term=002079&utm_content=menu&y_source=1_NjE0MjAxMi01NjYtbG9jYXRpb24ubWVudV91cmw%3D"
+						},
+						{
+							"value": "https://www.tacobell.com/food?utm_source=yext&utm_campaign=yextpowerlistings&utm_medium=referral&utm_term=002079&utm_content=order&y_source=1_NjE0MjAxMi01NjYtbG9jYXRpb24ub3JkZXJfdXJs"
+						},
+						{
+							"value": "https://locations.tacobell.com/la/new-iberia/824-e--admiral-doyle-drive.html?utm_source=yext&utm_campaign=yextpowerlistings&utm_medium=referral&utm_term=002079&utm_content=website&y_source=1_NjE0MjAxMi01NjYtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D"
+						}
+					]
+				}
+			],
+			"openingHours": [
+				{
+					"text": [
+						"Mon-Thu, Sun: 10:00 - 01:00",
+						"Fri, Sat: 10:00 - 02:00"
+					],
+					"isOpen": true,
+					"structured": [
+						{
+							"start": "T100000",
+							"duration": "PT15H00M",
+							"recurrence": "FREQ:DAILY;BYDAY:MO,TU,WE,TH,SU"
+						},
+						{
+							"start": "T100000",
+							"duration": "PT16H00M",
+							"recurrence": "FREQ:DAILY;BYDAY:FR,SA"
+						}
+					]
+				}
+			]
+		},
+		{
+			"title": "Taco Bell",
+			"id": "here:pds:place:8409vqt8-cff3c569d87446a6a30f6abdf30204ed",
+			"ontologyId": "here:cm:ontology:taco_bell",
+			"resultType": "place",
+			"address": {
+				"label": "Taco Bell, 605 Creswell Ln, Opelousas, LA 70570, United States",
+				"countryCode": "USA",
+				"countryName": "United States",
+				"stateCode": "LA",
+				"state": "Louisiana",
+				"county": "St Landry",
+				"city": "Opelousas",
+				"street": "Creswell Ln",
+				"postalCode": "70570",
+				"houseNumber": "605"
+			},
+			"position": {
+				"lat": 30.52015,
+				"lng": -92.07898
+			},
+			"access": [
+				{
+					"lat": 30.51988,
+					"lng": -92.07902
+				}
+			],
+			"distance": 33851,
+			"categories": [
+				{
+					"id": "100-1000-0009",
+					"name": "Fast Food",
+					"primary": true
+				},
+				{
+					"id": "100-1000-0000",
+					"name": "Restaurant"
+				},
+				{
+					"id": "100-1000-0003",
+					"name": "Take Out & Delivery Only"
+				}
+			],
+			"chains": [
+				{
+					"id": "1607"
+				}
+			],
+			"references": [
+				{
+					"supplier": {
+						"id": "core"
+					},
+					"id": "33699051"
+				},
+				{
+					"supplier": {
+						"id": "tripadvisor"
+					},
+					"id": "4653914"
+				},
+				{
+					"supplier": {
+						"id": "yelp"
+					},
+					"id": "HK_-DUmr_Y9vBytjuoIPDA"
+				}
+			],
+			"foodTypes": [
+				{
+					"id": "101-000",
+					"name": "American",
+					"primary": true
+				}
+			],
+			"contacts": [
+				{
+					"phone": [
+						{
+							"value": "+13379483850"
+						}
+					],
+					"www": [
+						{
+							"value": "http://www.tacobell.com"
+						},
+						{
+							"value": "https://locations.tacobell.com/la/opelousas/605-creswell-ln.html?utm_source=yext&utm_campaign=googlelistings&utm_medium=referral&utm_term=034479&utm_content=website"
+						},
+						{
+							"value": "https://locations.tacobell.com/la/opelousas/605-creswell-ln.html?utm_source=yext&utm_campaign=yextpowerlistings&utm_medium=referral&utm_term=034479&utm_content=website"
+						},
+						{
+							"value": "https://www.tacobell.com/food?utm_source=yext&utm_campaign=yextpowerlistings&utm_medium=referral&utm_term=034479&utm_content=menu&y_source=1_NjE0MjgxNC01NjYtbG9jYXRpb24ubWVudV91cmw%3D"
+						},
+						{
+							"value": "https://www.tacobell.com/food?utm_source=yext&utm_campaign=yextpowerlistings&utm_medium=referral&utm_term=034479&utm_content=order&y_source=1_NjE0MjgxNC01NjYtbG9jYXRpb24ub3JkZXJfdXJs"
+						},
+						{
+							"value": "https://locations.tacobell.com/la/opelousas/605-creswell-ln.html?utm_source=yext&utm_campaign=yextpowerlistings&utm_medium=referral&utm_term=034479&utm_content=website&y_source=1_NjE0MjgxNC01NjYtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D"
+						}
+					],
+					"email": [
+						{
+							"value": "smitty@tacobell.com"
+						}
+					]
+				}
+			],
+			"openingHours": [
+				{
+					"text": [
+						"Mon-Thu, Sun: 07:00 - 24:00, 07:00 - 01:00",
+						"Fri, Sat: 07:00 - 02:00"
+					],
+					"isOpen": true,
+					"structured": [
+						{
+							"start": "T070000",
+							"duration": "PT17H00M",
+							"recurrence": "FREQ:DAILY;BYDAY:MO,TU,WE,TH,SU"
+						},
+						{
+							"start": "T070000",
+							"duration": "PT18H00M",
+							"recurrence": "FREQ:DAILY;BYDAY:MO,TU,WE,TH,SU"
+						},
+						{
+							"start": "T070000",
+							"duration": "PT19H00M",
+							"recurrence": "FREQ:DAILY;BYDAY:FR,SA"
+						}
+					]
+				}
+			]
+		},
+		{
+			"title": "Taco Bell",
+			"id": "here:pds:place:8409vq7c-c1d10f69e800497eba95e5dc77939617",
+			"ontologyId": "here:cm:ontology:taco_bell",
+			"resultType": "place",
+			"address": {
+				"label": "Taco Bell, 2408 N Parkerson Ave, Crowley, LA 70526, United States",
+				"countryCode": "USA",
+				"countryName": "United States",
+				"stateCode": "LA",
+				"state": "Louisiana",
+				"county": "Acadia",
+				"city": "Crowley",
+				"street": "N Parkerson Ave",
+				"postalCode": "70526",
+				"houseNumber": "2408"
+			},
+			"position": {
+				"lat": 30.23372,
+				"lng": -92.38391
+			},
+			"access": [
+				{
+					"lat": 30.23358,
+					"lng": -92.38423
+				}
+			],
+			"distance": 34997,
+			"categories": [
+				{
+					"id": "100-1000-0009",
+					"name": "Fast Food",
+					"primary": true
+				},
+				{
+					"id": "100-1000-0000",
+					"name": "Restaurant"
+				},
+				{
+					"id": "100-1000-0003",
+					"name": "Take Out & Delivery Only"
+				}
+			],
+			"chains": [
+				{
+					"id": "1607"
+				}
+			],
+			"references": [
+				{
+					"supplier": {
+						"id": "core"
+					},
+					"id": "33690122"
+				},
+				{
+					"supplier": {
+						"id": "tripadvisor"
+					},
+					"id": "4656750"
+				},
+				{
+					"supplier": {
+						"id": "yelp"
+					},
+					"id": "6FFjYQSBESj6M46-Ddr_Dw"
+				}
+			],
+			"foodTypes": [
+				{
+					"id": "101-000",
+					"name": "American",
+					"primary": true
+				}
+			],
+			"contacts": [
+				{
+					"phone": [
+						{
+							"value": "+13377838424"
+						},
+						{
+							"value": "+13377839828"
+						}
+					],
+					"fax": [
+						{
+							"value": "(318) 783-9828"
+						}
+					],
+					"www": [
+						{
+							"value": "http://www.tacobell.com"
+						},
+						{
+							"value": "https://locations.tacobell.com/la/crowley/2408-north-parkerson-avenue.html?utm_source=yext&utm_campaign=googlelistings&utm_medium=referral&utm_term=016313&utm_content=website"
+						},
+						{
+							"value": "https://locations.tacobell.com/la/crowley/2408-north-parkerson-avenue.html?utm_source=yext&utm_campaign=yextpowerlistings&utm_medium=referral&utm_term=016313&utm_content=website"
+						},
+						{
+							"value": "https://www.tacobell.com/food?utm_source=yext&utm_campaign=yextpowerlistings&utm_medium=referral&utm_term=016313&utm_content=menu&y_source=1_NjE0NDk0My01NjYtbG9jYXRpb24ubWVudV91cmw%3D"
+						},
+						{
+							"value": "https://www.tacobell.com/food?utm_source=yext&utm_campaign=yextpowerlistings&utm_medium=referral&utm_term=016313&utm_content=order&y_source=1_NjE0NDk0My01NjYtbG9jYXRpb24ub3JkZXJfdXJs"
+						},
+						{
+							"value": "https://locations.tacobell.com/la/crowley/2408-north-parkerson-avenue.html?utm_source=yext&utm_campaign=yextpowerlistings&utm_medium=referral&utm_term=016313&utm_content=website&y_source=1_NjE0NDk0My01NjYtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D"
+						}
+					],
+					"email": [
+						{
+							"value": "webmaster@tacobell.com"
+						}
+					]
+				}
+			],
+			"openingHours": [
+				{
+					"text": [
+						"Mon-Thu, Sun: 07:00 - 02:00, 10:00 - 02:00",
+						"Fri, Sat: 07:00 - 04:00, 10:00 - 04:00"
+					],
+					"isOpen": true,
+					"structured": [
+						{
+							"start": "T070000",
+							"duration": "PT19H00M",
+							"recurrence": "FREQ:DAILY;BYDAY:MO,TU,WE,TH,SU"
+						},
+						{
+							"start": "T100000",
+							"duration": "PT16H00M",
+							"recurrence": "FREQ:DAILY;BYDAY:MO,TU,WE,TH,SU"
+						},
+						{
+							"start": "T070000",
+							"duration": "PT21H00M",
+							"recurrence": "FREQ:DAILY;BYDAY:FR,SA"
+						},
+						{
+							"start": "T100000",
+							"duration": "PT18H00M",
+							"recurrence": "FREQ:DAILY;BYDAY:FR,SA"
+						}
+					]
+				}
+			]
+		},
+		{
+			"title": "Taco Bell",
+			"id": "here:pds:place:8409vqm2-03007467c4324ade8d8e804813ee6ca4",
+			"ontologyId": "here:cm:ontology:taco_bell",
+			"resultType": "place",
+			"address": {
+				"label": "Taco Bell, 2121 W Laurel Ave, Eunice, LA 70535, United States",
+				"countryCode": "USA",
+				"countryName": "United States",
+				"stateCode": "LA",
+				"state": "Louisiana",
+				"county": "St Landry",
+				"city": "Eunice",
+				"street": "W Laurel Ave",
+				"postalCode": "70535",
+				"houseNumber": "2121"
+			},
+			"position": {
+				"lat": 30.49488,
+				"lng": -92.43783
+			},
+			"access": [
+				{
+					"lat": 30.49501,
+					"lng": -92.43783
+				}
+			],
+			"distance": 50413,
+			"categories": [
+				{
+					"id": "100-1000-0009",
+					"name": "Fast Food",
+					"primary": true
+				},
+				{
+					"id": "100-1000-0000",
+					"name": "Restaurant"
+				},
+				{
+					"id": "100-1000-0003",
+					"name": "Take Out & Delivery Only"
+				}
+			],
+			"chains": [
+				{
+					"id": "1607"
+				}
+			],
+			"references": [
+				{
+					"supplier": {
+						"id": "core"
+					},
+					"id": "1130493013"
+				},
+				{
+					"supplier": {
+						"id": "tripadvisor"
+					},
+					"id": "15864629"
+				},
+				{
+					"supplier": {
+						"id": "yelp"
+					},
+					"id": "BpaZw-GRu75YrCIx9FWSuA"
+				}
+			],
+			"foodTypes": [
+				{
+					"id": "101-000",
+					"name": "American",
+					"primary": true
+				}
+			],
+			"contacts": [
+				{
+					"phone": [
+						{
+							"value": "+13374572014"
+						},
+						{
+							"value": "+13374573408"
+						}
+					],
+					"fax": [
+						{
+							"value": "(318) 457-3408"
+						}
+					],
+					"www": [
+						{
+							"value": "http://www.tacobell.com"
+						},
+						{
+							"value": "https://locations.tacobell.com/la/eunice/2121-w-laurel.html?utm_source=yext&utm_campaign=yextpowerlistings&utm_medium=referral&utm_term=003700&utm_content=website"
+						},
+						{
+							"value": "https://www.tacobell.com/locations"
+						},
+						{
+							"value": "https://www.tacobell.com/food?utm_source=yext&utm_campaign=yextpowerlistings&utm_medium=referral&utm_term=003700&utm_content=menu&y_source=1_NjE0NTIxNC01NjYtbG9jYXRpb24ubWVudV91cmw%3D"
+						},
+						{
+							"value": "https://www.tacobell.com/food?utm_source=yext&utm_campaign=yextpowerlistings&utm_medium=referral&utm_term=003700&utm_content=order&y_source=1_NjE0NTIxNC01NjYtbG9jYXRpb24ub3JkZXJfdXJs"
+						},
+						{
+							"value": "https://locations.tacobell.com/la/eunice/2121-w-laurel.html?utm_source=yext&utm_campaign=yextpowerlistings&utm_medium=referral&utm_term=003700&utm_content=website&y_source=1_NjE0NTIxNC01NjYtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D"
+						}
+					]
+				}
+			],
+			"openingHours": [
+				{
+					"text": [
+						"Mon-Thu: 00:00 - 02:00, 07:00 - 02:00, 07:00 - 24:00",
+						"Fri: 00:00 - 02:00, 07:00 - 04:00, 10:00 - 02:00",
+						"Sat: 00:00 - 04:00, 07:00 - 04:00, 10:00 - 02:00",
+						"Sun: 00:00 - 04:00, 07:00 - 02:00, 07:00 - 24:00"
+					],
+					"isOpen": true,
+					"structured": [
+						{
+							"start": "T000000",
+							"duration": "PT02H00M",
+							"recurrence": "FREQ:DAILY;BYDAY:MO,TU,WE,TH,FR"
+						},
+						{
+							"start": "T070000",
+							"duration": "PT19H00M",
+							"recurrence": "FREQ:DAILY;BYDAY:MO,TU,WE,TH,SU"
+						},
+						{
+							"start": "T070000",
+							"duration": "PT16H59M",
+							"recurrence": "FREQ:DAILY;BYDAY:MO,TU,WE,TH,FR,SA,SU"
+						},
+						{
+							"start": "T000000",
+							"duration": "PT04H00M",
+							"recurrence": "FREQ:DAILY;BYDAY:SA,SU"
+						}
+					]
+				}
+			]
+		},
+		{
+			"title": "Taco Bell",
+			"id": "here:pds:place:8409vqh5-5801ba5cdcc245feaee5f2ecb674fcc1",
+			"ontologyId": "here:cm:ontology:taco_bell",
+			"resultType": "place",
+			"address": {
+				"label": "Taco Bell, 1719 Elton Rd, Jennings, LA 70546, United States",
+				"countryCode": "USA",
+				"countryName": "United States",
+				"stateCode": "LA",
+				"state": "Louisiana",
+				"county": "Jefferson Davis",
+				"city": "Jennings",
+				"street": "Elton Rd",
+				"postalCode": "70546",
+				"houseNumber": "1719"
+			},
+			"position": {
+				"lat": 30.24022,
+				"lng": -92.66358
+			},
+			"access": [
+				{
+					"lat": 30.24022,
+					"lng": -92.66347
+				}
+			],
+			"distance": 61872,
+			"categories": [
+				{
+					"id": "100-1000-0009",
+					"name": "Fast Food",
+					"primary": true
+				},
+				{
+					"id": "100-1000-0000",
+					"name": "Restaurant"
+				},
+				{
+					"id": "100-1000-0003",
+					"name": "Take Out & Delivery Only"
+				}
+			],
+			"chains": [
+				{
+					"id": "1607"
+				}
+			],
+			"references": [
+				{
+					"supplier": {
+						"id": "core"
+					},
+					"id": "33688610"
+				},
+				{
+					"supplier": {
+						"id": "tripadvisor"
+					},
+					"id": "4645755"
+				},
+				{
+					"supplier": {
+						"id": "yelp"
+					},
+					"id": "VLHOAttGFvtdxBn3GJVChg"
+				}
+			],
+			"foodTypes": [
+				{
+					"id": "101-000",
+					"name": "American",
+					"primary": true
+				}
+			],
+			"contacts": [
+				{
+					"phone": [
+						{
+							"value": "+13378247045"
+						}
+					],
+					"www": [
+						{
+							"value": "http://www.tacobell.com"
+						},
+						{
+							"value": "https://locations.tacobell.com/la/jennings/1719-elton-rd.html?utm_source=yext&utm_campaign=googlelistings&utm_medium=referral&utm_term=003601&utm_content=website"
+						},
+						{
+							"value": "https://locations.tacobell.com/la/jennings/1719-elton-rd.html?utm_source=yext&utm_campaign=yextpowerlistings&utm_medium=referral&utm_term=003601&utm_content=website"
+						},
+						{
+							"value": "https://www.tacobell.com/food?utm_source=yext&utm_campaign=yextpowerlistings&utm_medium=referral&utm_term=003601&utm_content=menu&y_source=1_NjE0NTgwMi01NjYtbG9jYXRpb24ubWVudV91cmw%3D"
+						},
+						{
+							"value": "https://www.tacobell.com/food?utm_source=yext&utm_campaign=yextpowerlistings&utm_medium=referral&utm_term=003601&utm_content=order&y_source=1_NjE0NTgwMi01NjYtbG9jYXRpb24ub3JkZXJfdXJs"
+						},
+						{
+							"value": "https://locations.tacobell.com/la/jennings/1719-elton-rd.html?utm_source=yext&utm_campaign=yextpowerlistings&utm_medium=referral&utm_term=003601&utm_content=website&y_source=1_NjE0NTgwMi01NjYtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D"
+						}
+					],
+					"email": [
+						{
+							"value": "iamtacobell@tacobell.com"
+						}
+					]
+				}
+			],
+			"openingHours": [
+				{
+					"text": [
+						"Mon-Fri: 00:00 - 02:00, 07:00 - 24:00",
+						"Sat, Sun: 00:00 - 04:00, 07:00 - 24:00"
+					],
+					"isOpen": true,
+					"structured": [
+						{
+							"start": "T000000",
+							"duration": "PT02H00M",
+							"recurrence": "FREQ:DAILY;BYDAY:MO,TU,WE,TH,FR"
+						},
+						{
+							"start": "T070000",
+							"duration": "PT16H59M",
+							"recurrence": "FREQ:DAILY;BYDAY:MO,TU,WE,TH,FR,SA,SU"
+						},
+						{
+							"start": "T000000",
+							"duration": "PT04H00M",
+							"recurrence": "FREQ:DAILY;BYDAY:SA,SU"
+						}
+					]
+				}
+			]
+		},
+		{
+			"title": "Taco Bell",
+			"id": "here:pds:place:8409vqyw-913ec7f472b54b7d91cd6f533fb38e2c",
+			"ontologyId": "here:cm:ontology:taco_bell",
+			"resultType": "place",
+			"address": {
+				"label": "Taco Bell, 2300 False River Dr, New Roads, LA 70760, United States",
+				"countryCode": "USA",
+				"countryName": "United States",
+				"stateCode": "LA",
+				"state": "Louisiana",
+				"county": "Pointe Coupee",
+				"city": "New Roads",
+				"street": "False River Dr",
+				"postalCode": "70760",
+				"houseNumber": "2300"
+			},
+			"position": {
+				"lat": 30.68219,
+				"lng": -91.46265
+			},
+			"access": [
+				{
+					"lat": 30.68192,
+					"lng": -91.46245
+				}
+			],
+			"distance": 74132,
+			"categories": [
+				{
+					"id": "100-1000-0000",
+					"name": "Restaurant",
+					"primary": true
+				},
+				{
+					"id": "100-1000-0003",
+					"name": "Take Out & Delivery Only"
+				},
+				{
+					"id": "100-1000-0009",
+					"name": "Fast Food"
+				}
+			],
+			"chains": [
+				{
+					"id": "1607"
+				}
+			],
+			"references": [
+				{
+					"supplier": {
+						"id": "tripadvisor"
+					},
+					"id": "19125250"
+				},
+				{
+					"supplier": {
+						"id": "yelp"
+					},
+					"id": "awDXqVq0GyZu7uyQwmxqPQ"
+				}
+			],
+			"foodTypes": [
+				{
+					"id": "101-000",
+					"name": "American",
+					"primary": true
+				}
+			],
+			"contacts": [
+				{
+					"phone": [
+						{
+							"value": "+12257133310"
+						}
+					],
+					"www": [
+						{
+							"value": "http://www.tacobell.com"
+						},
+						{
+							"value": "https://www.tacobell.com/food?utm_source=yext&utm_campaign=yextpowerlistings&utm_medium=referral&utm_term=036269&utm_content=menu&y_source=1_MTM1MjYxNjYtNTY2LWxvY2F0aW9uLm1lbnVfdXJs"
+						},
+						{
+							"value": "https://www.tacobell.com/food?utm_source=yext&utm_campaign=yextpowerlistings&utm_medium=referral&utm_term=036269&utm_content=order&y_source=1_MTM1MjYxNjYtNTY2LWxvY2F0aW9uLm9yZGVyX3VybA%3D%3D"
+						}
+					]
+				}
+			],
+			"openingHours": [
+				{
+					"text": [
+						"Mon-Thu: 07:00 - 23:00",
+						"Fri, Sat: 00:00 - 01:00, 07:00 - 01:00, 10:00 - 23:59",
+						"Sun: 00:00 - 01:00, 07:00 - 23:00"
+					],
+					"isOpen": true,
+					"structured": [
+						{
+							"start": "T070000",
+							"duration": "PT16H00M",
+							"recurrence": "FREQ:DAILY;BYDAY:MO,TU,WE,TH,SU"
+						},
+						{
+							"start": "T100000",
+							"duration": "PT13H00M",
+							"recurrence": "FREQ:DAILY;BYDAY:MO,TU,WE,TH,SU"
+						},
+						{
+							"start": "T000000",
+							"duration": "PT01H00M",
+							"recurrence": "FREQ:DAILY;BYDAY:FR,SA,SA,SU"
+						},
+						{
+							"start": "T070000",
+							"duration": "PT16H59M",
+							"recurrence": "FREQ:DAILY;BYDAY:FR,SA"
+						},
+						{
+							"start": "T100000",
+							"duration": "PT13H59M",
+							"recurrence": "FREQ:DAILY;BYDAY:FR,SA"
+						}
+					]
+				}
+			]
+		},
+		{
+			"title": "Taco Bell",
+			"id": "here:pds:place:8409vrhk-5e921e61b1fe48a1ad6567a76fc8497e",
+			"ontologyId": "here:cm:ontology:taco_bell",
+			"resultType": "place",
+			"address": {
+				"label": "Taco Bell, 24529 Highway 1, Plaquemine, LA 70764, United States",
+				"countryCode": "USA",
+				"countryName": "United States",
+				"stateCode": "LA",
+				"state": "Louisiana",
+				"county": "Iberville",
+				"city": "Plaquemine",
+				"street": "Highway 1",
+				"postalCode": "70764",
+				"houseNumber": "24529"
+			},
+			"position": {
+				"lat": 30.28203,
+				"lng": -91.22732
+			},
+			"access": [
+				{
+					"lat": 30.28144,
+					"lng": -91.22788
+				}
+			],
+			"distance": 76451,
+			"categories": [
+				{
+					"id": "100-1000-0009",
+					"name": "Fast Food",
+					"primary": true
+				},
+				{
+					"id": "100-1000-0000",
+					"name": "Restaurant"
+				},
+				{
+					"id": "100-1000-0003",
+					"name": "Take Out & Delivery Only"
+				}
+			],
+			"chains": [
+				{
+					"id": "1607"
+				}
+			],
+			"references": [
+				{
+					"supplier": {
+						"id": "core"
+					},
+					"id": "935578672"
+				},
+				{
+					"supplier": {
+						"id": "yelp"
+					},
+					"id": "DdVNBEwv7mh2oDd9jJQm1g"
+				},
+				{
+					"supplier": {
+						"id": "yelp"
+					},
+					"id": "Q0iKCJjNmHttYW3uhxeugw"
+				}
+			],
+			"foodTypes": [
+				{
+					"id": "101-000",
+					"name": "American",
+					"primary": true
+				}
+			],
+			"contacts": [
+				{
+					"phone": [
+						{
+							"value": "+12253203206"
+						},
+						{
+							"value": "+12256870109"
+						}
+					],
+					"fax": [
+						{
+							"value": "(225) 687-0210"
+						}
+					],
+					"www": [
+						{
+							"value": "http://www.tacobell.com"
+						},
+						{
+							"value": "https://www.tacobell.com/?store=019750&utm_source=yext&utm_campaign=yextpowerlistings&utm_medium=referral&utm_term=019750&utm_content=menu"
+						},
+						{
+							"value": "https://www.tacobell.com/food?utm_source=yext&utm_campaign=yextpowerlistings&utm_medium=referral&utm_term=036471&utm_content=menu&y_source=1_MTUwMTY0ODctNTY2LWxvY2F0aW9uLm1lbnVfdXJs"
+						},
+						{
+							"value": "https://www.tacobell.com/food?store=019750&utm_source=yext&utm_campaign=yextpowerlistings&utm_medium=referral&utm_term=019750&utm_content=order"
+						},
+						{
+							"value": "https://www.tacobell.com/food?utm_source=yext&utm_campaign=yextpowerlistings&utm_medium=referral&utm_term=036471&utm_content=order&y_source=1_MTUwMTY0ODctNTY2LWxvY2F0aW9uLm9yZGVyX3VybA%3D%3D"
+						},
+						{
+							"value": "https://locations.tacobell.com/la/plaquemine/24529-highway-1.html?utm_source=yext&utm_campaign=yextpowerlistings&utm_medium=referral&utm_term=019750&utm_content=website"
+						},
+						{
+							"value": "https://locations.tacobell.com/la/plaquemine/24529-highway-1.html?utm_source=yext&utm_campaign=yextpowerlistings&utm_medium=referral&utm_term=036471&utm_content=website&y_source=1_MTUwMTY0ODctNTY2LWxvY2F0aW9uLndlYnNpdGU%3D"
+						}
+					],
+					"email": [
+						{
+							"value": "iamtacobell@tacobell.com"
+						}
+					]
+				}
+			],
+			"openingHours": [
+				{
+					"text": [
+						"Mon-Sun: 10:00 - 24:00"
+					],
+					"isOpen": true,
+					"structured": [
+						{
+							"start": "T100000",
+							"duration": "PT14H00M",
+							"recurrence": "FREQ:DAILY;BYDAY:MO,TU,WE,TH,FR,SA,SU"
+						}
+					]
+				}
+			]
+		}
+	]
+}

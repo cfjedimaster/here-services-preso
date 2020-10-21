@@ -240,20 +240,289 @@ ui.addBubble(bubble);
                 <section>
                     <h2>Demo</h2>
                     <aside class="notes">
-                    maps/test7.html  
+                    maps/test7.html  - show groups + tap
                 </section>
 
+                <section>
+                <h2>REST APIs</h2>
+                <ul>
+                <li class="fragment">Things you can all with your language of choice!</li>
+                <li class="fragment">Node/JS (personal choice)</li>
+                </ul>
+                </section>
+
+                <section>
+                <h2>REST APIs</h2>
+                <ul>
+                <li class="fragment">Geocoding (and reverse geocoding)</li>
+                <li class="fragment">Routing (car, truck, isoline, intermodal, tc)</li>
+                <li class="fragment">Search</li>
+                <li class="fragment">Traffic</li>
+                <li class="fragment">Geofencing</li>
+                <li class="fragment">Destination Weather</li>
+                <li class="fragment">And more...</li>
+                </ul>
+                </section>
+
+                <section>
+                <h2>Geocoding</h2>
+                <ul>
+                <li class="fragment">Takes in an address, returns exact location (plus info about it)</li>
+                <li class="fragment">Input can be messy (right street and city but wrong zip)</li>
+                </ul>
+                </section>
+
+                <section>
+					<p>https://geocode.search.hereapi.com/v1/geocode</p>
+					<p class="fragment">?apikey=<i>yourkey</i></p>
+					<p class="fragment">&q=<i>input</i></p>
+				</section>
+
+				<section>
+					<p>https://geocode.search.hereapi.com/v1/geocode</p>
+					<p>?apikey=<i>yourkey</i></p>
+					<p>&q=<i>lafayette,+la</i></p>
+				</section>
+
+                <section>
+                    <h2>Demo</h2>
+                    <aside class="notes">
+                    api/geo1.js
+                    </aside>
+                </section>
+
+                <section>
+                <h2>Reverse Geocoding</h2>
+                <ul>
+                <li class="fragment">Takes a location and tells you what's there</li>
+                </ul>
+                </section>
+
+                <section>
+					<p>https://revgeocode.search.hereapi.com/v1/revgeocode</p>
+					<p class="fragment">?apikey=<i>yourkey</i></p>
+					<p class="fragment">&at=<i>lat,lng</i></p>
+				</section>
+
+				<section>
+					<p>https://revgeocode.search.hereapi.com/v1/revgeocode</p>
+					<p class="fragment">?apikey=<i>yourkey</i></p>
+					<p class="fragment">&at=<i>30.22,-92.02</i></p>
+				</section>
+
+				<section>
+					<h2>Demo</h2>
+                    <aside class="notes">
+                    api/rev.js
+                    </aside>
+				</section>
+
+                <section>
+                    <h2>Search</h2>
+                    <ul>
+                    <li class="fragment">Discover</li>
+                    <li class="fragment">Browse</li>
+                    <li class="fragment">Suggest</li>
+                    </ul>
+				</section>
+
+                <section data-background="img/discover.jpg" data-background-opacity="0.4">
+					<h1>Discover</h1>
+				</section>
+
+				<section>
+				<h2>Discover</h2>
+				<ul>
+				<li class="fragment">Good for free form search</li>
+				<li class="fragment">Good for matching against a type of thing</li>
+				<li class="fragment">Good for matching a chain</li>
+				<li class="fragment">Based on a location (point, circle, or square)</li>
+				</ul>
+				</section>
+
+				<section>
+					<p>https://discover.search.hereapi.com/v1/discover</p>
+					<p class="fragment">?apikey=<i>yourkey</i></p>
+					<p class="fragment">&at=<i>lat,lng</i></p>
+					<p class="fragment">&q=<i>term</i></p>
+				</section>
+
+				<section>
+					<p>https://discover.search.hereapi.com/v1/discover</p>
+					<p class="fragment">?apikey=<i>yourkey</i></p>
+					<p class="fragment">&at=<i>30.22,-92.02</i></p>
+					<p class="fragment">&q=<i>taco bell</i></p>
+				</section>
+
+				<section>
+					<h2>Demo</h2>
+				</section>
+
+				<section data-background="img/browse.jpg" data-background-opacity="0.4" data-background-position="bottom">
+					<h2>Browse</h2>
+                    <aside class="notes">
+                    api/discover.js
+                    </aside>
+				</section>
+
+				<section>
+				<h2>Browse</h2>
+				<ul>
+				<li class="fragment">Good for category searches</li>
+				<li class="fragment">Can still pass a name too</li>
+				<li class="fragment">Can also return everything around a place</li>
+				</ul>
+				</section>
+
+				<section>
+				<h2>Browse (Cont)</h2>
+				<ul>
+				<li class="fragment">
+					Three level category system
+					<ul>
+						<li class="fragment">level 1 can be "eat and drink"</li>
+						<li class="fragment">level 2 can be "restaurant"</li>
+						<li class="fragment">level 3 can be "fine dining"</li>
+					</ul>
+				</li>
+				<li class="fragment">A whole separate food category system</li>
+				</ul>
+				</section>
+
+				<section>
+				<h2>Level 2 Asian</h2>
+				<p>Azerbaijani
+Bruneian
+Burmese
+Cambodian
+Chinese
+Filipino
+Indian
+Indonesian
+Japanese
+Korean
+Lebanese
+Malaysian
+Middle Eastern
+Pakistani
+Singaporean
+Southeast Asian
+Sri Lankan
+Thai
+Tibetan
+Turkish
+Vietnamese
+Yemeni
+</p>
+				</section>
+
+				<section>
+					<p>https://browse.search.hereapi.com/v1/browse</p>
+					<p class="fragment">?apikey=<i>yourkey</i></p>
+					<p class="fragment">&at=<i>lat,lng</i></p>
+					<p class="fragment">&categories=<i>list</i></p>
+				</section>
+
+				<section>
+					<p>https://browse.search.hereapi.com/v1/browse</p>
+					<p class="fragment">?apikey=<i>yourkey</i></p>
+					<p class="fragment">&at=<i>30.22,-92.02</i></p>
+					<p class="fragment">&categories=<i>201-000,153-000</i></p>
+					<!-- chinese and cuban -->
+				</section>
+
+				<section>
+					<h2>Demo</h2>
+                    <aside class="notes">
+                    api/browse.js
+                    </aside>
+
+				</section>
+
+                <section>
+				<h2>Discover vs Browse</h2>
+				<blockquote>
+				<p>
+				Whereas /discover anticipates the intention of the submitter's (human) search request, the /browse endpoint takes a more machine-oriented or precise interpretation of the request.
+				</p>
+				</blockquote>
+				</section>
+
+				<section>
+				<h2>Discover vs Browse</h2>
+				<blockquote>
+				<p>
+				For example, if you submit a request for for "New York Pizza", /discover returns results for restaurants in New York City serving pizza. Whereas, /browse returns a restaurant named "New York Pizza".
+				</p>
+				</blockquote>
+				</section>
+
+				<section>
+				<h2>Discover vs Browse</h2>
+				<blockquote>
+				<p>
+				The sorting is similarly contrasted: for /discover endpoint results are mostly sorted by relevance, whereas in /browse, results are always sorted by distance.
+				</p>
+				</blockquote>
+				</section>
+
+				<section data-background="img/suggest.jpg" data-background-opacity="0.4" data-background-position="bottom">
+					<h1>Suggest</h1>
+				</section>
+
+				<section>
+				<h2>Suggest</h2>
+				<ul>
+				<li class="fragment">Autosuggest</li>
+				<li class="fragment">Match input as the user types</li>
+				<li class="fragment">Results in query suggestions and general results</li>
+				</ul>
+				</section>
+
+				<section>
+					<h2>Demo</h2>
+                    <aside class="notes">
+                    apis/auto.html
+                    </aside>
+				</section>       
+
+                <section>
+                <h2>Routing</h2>
+                <ul>
+                <li class="fragment">From A to B</li>
+                <li class="fragment">At a certain time</li>
+                <li class="fragment">Stopping at X and Y along the way</li>
+                <li class="fragment">Truck with weight/height/material issues</li>
+                <li class="fragment">Avoid tolls, tunnels, etc</li>
+                <li class="fragment">Many, many, many more options</li>
+                </ul>
+                </section>         
+
+				<section>
+					<p>https://router.hereapi.com/v8/routes</p>
+					<p class="fragment">?apikey=<i>yourkey</i></p>
+					<p class="fragment">&transportMode=car</p>
+					<p class="fragment">&origin=30.22,-92.02</p>
+                    <p class="fragment">&destination=29.95838,-90.17346</p>
+                    <p class="fragment">&return=summary</p>                    
+				</section>
+
+				<section>
+					<h2>Demo</h2>
+                    <aside class="notes">
+                    apis/route1.js
+                    apis/route2.js
+                    </aside>
+				</section>                    
 <!--
+
 todo tomorrow: 
-
-
-go to APIs
-geocoding
-reversegeocoding
-search (discover + browse)
 
 go back to maps and show geocoding integration
 reverse geocoding integration
+
+than studio
+then DH
 -->
 
             </div>

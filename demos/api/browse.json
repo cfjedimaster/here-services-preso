@@ -1,0 +1,2120 @@
+{
+	"items": [
+		{
+			"title": "VIP Restaurant & Lounge",
+			"id": "here:pds:place:8409vqef-dd1d0fd054c0427a86deded59fb6236e",
+			"resultType": "place",
+			"address": {
+				"label": "VIP Restaurant & Lounge, 417 Jefferson St, Lafayette, LA 70501, United States",
+				"countryCode": "USA",
+				"countryName": "United States",
+				"stateCode": "LA",
+				"state": "Louisiana",
+				"county": "Lafayette",
+				"city": "Lafayette",
+				"street": "Jefferson St",
+				"postalCode": "70501",
+				"houseNumber": "417"
+			},
+			"position": {
+				"lat": 30.22595,
+				"lng": -92.01751
+			},
+			"access": [
+				{
+					"lat": 30.22621,
+					"lng": -92.01784
+				}
+			],
+			"distance": 704,
+			"categories": [
+				{
+					"id": "100-1000-0001",
+					"name": "Casual Dining",
+					"primary": true
+				},
+				{
+					"id": "100-1000-0000",
+					"name": "Restaurant"
+				}
+			],
+			"references": [
+				{
+					"supplier": {
+						"id": "core"
+					},
+					"id": "1215828692"
+				}
+			],
+			"foodTypes": [
+				{
+					"id": "800-078",
+					"name": "Grill",
+					"primary": true
+				},
+				{
+					"id": "201-000",
+					"name": "Chinese"
+				}
+			],
+			"contacts": [
+				{
+					"phone": [
+						{
+							"value": "+13374566612"
+						},
+						{
+							"value": "+13378497847"
+						}
+					]
+				}
+			]
+		},
+		{
+			"title": "Cajun Fried",
+			"id": "here:pds:place:8409vqef-bca3924808b041ecb7b27e2efbae5c8f",
+			"resultType": "place",
+			"address": {
+				"label": "Cajun Fried, 810 SE Evangeline Thwy, Lafayette, LA 70501, United States",
+				"countryCode": "USA",
+				"countryName": "United States",
+				"stateCode": "LA",
+				"state": "Louisiana",
+				"county": "Lafayette",
+				"city": "Lafayette",
+				"street": "SE Evangeline Thwy",
+				"postalCode": "70501",
+				"houseNumber": "810"
+			},
+			"position": {
+				"lat": 30.2226,
+				"lng": -92.00859
+			},
+			"access": [
+				{
+					"lat": 30.22272,
+					"lng": -92.00831
+				}
+			],
+			"distance": 1134,
+			"categories": [
+				{
+					"id": "100-1000-0009",
+					"name": "Fast Food",
+					"primary": true
+				},
+				{
+					"id": "100-1000-0000",
+					"name": "Restaurant"
+				}
+			],
+			"references": [
+				{
+					"supplier": {
+						"id": "yelp"
+					},
+					"id": "-0VMFsaOfO-nHxCdyKFD6w"
+				}
+			],
+			"foodTypes": [
+				{
+					"id": "101-070",
+					"name": "American - Cajun",
+					"primary": true
+				},
+				{
+					"id": "201-000",
+					"name": "Chinese"
+				},
+				{
+					"id": "800-062",
+					"name": "Chicken"
+				},
+				{
+					"id": "800-075",
+					"name": "Seafood"
+				}
+			],
+			"contacts": [
+				{
+					"phone": [
+						{
+							"value": "+13373451129"
+						}
+					]
+				}
+			],
+			"openingHours": [
+				{
+					"text": [
+						"Mon-Thu: 10:00 - 21:00",
+						"Fri, Sat: 10:00 - 21:30",
+						"Sun: 10:30 - 21:00"
+					],
+					"isOpen": true,
+					"structured": [
+						{
+							"start": "T100000",
+							"duration": "PT11H00M",
+							"recurrence": "FREQ:DAILY;BYDAY:MO,TU,WE,TH"
+						},
+						{
+							"start": "T100000",
+							"duration": "PT11H30M",
+							"recurrence": "FREQ:DAILY;BYDAY:FR,SA"
+						},
+						{
+							"start": "T103000",
+							"duration": "PT10H30M",
+							"recurrence": "FREQ:DAILY;BYDAY:SU"
+						}
+					]
+				}
+			]
+		},
+		{
+			"title": "Snow Seafood",
+			"id": "here:pds:place:8409vqef-c6c8e5a7423746b5bb842febd33befbd",
+			"resultType": "place",
+			"address": {
+				"label": "Snow Seafood, 603 E Pinhook Rd, Lafayette, LA 70501, United States",
+				"countryCode": "USA",
+				"countryName": "United States",
+				"stateCode": "LA",
+				"state": "Louisiana",
+				"county": "Lafayette",
+				"city": "Lafayette",
+				"street": "E Pinhook Rd",
+				"postalCode": "70501",
+				"houseNumber": "603"
+			},
+			"position": {
+				"lat": 30.21887,
+				"lng": -92.00331
+			},
+			"access": [
+				{
+					"lat": 30.21873,
+					"lng": -92.00316
+				}
+			],
+			"distance": 1609,
+			"categories": [
+				{
+					"id": "600-6000-0061",
+					"name": "Convenience Store",
+					"primary": true
+				},
+				{
+					"id": "100-1000-0000",
+					"name": "Restaurant"
+				}
+			],
+			"foodTypes": [
+				{
+					"id": "800-075",
+					"name": "Seafood",
+					"primary": true
+				},
+				{
+					"id": "201-000",
+					"name": "Chinese"
+				}
+			],
+			"contacts": [
+				{
+					"phone": [
+						{
+							"value": "+13374088294"
+						}
+					]
+				}
+			]
+		},
+		{
+			"title": "Ct Grill & Seafood",
+			"id": "here:pds:place:840jx7ps-259ab2ac7d1e014422892d17d6bf6e41",
+			"resultType": "place",
+			"address": {
+				"label": "Ct Grill & Seafood, 803 W Pinhook Rd, Lafayette, LA 70503, United States",
+				"countryCode": "USA",
+				"countryName": "United States",
+				"stateCode": "LA",
+				"state": "Louisiana",
+				"county": "Lafayette",
+				"city": "Lafayette",
+				"street": "W Pinhook Rd",
+				"postalCode": "70503",
+				"houseNumber": "803"
+			},
+			"position": {
+				"lat": 30.20607,
+				"lng": -92.01204
+			},
+			"access": [
+				{
+					"lat": 30.20619,
+					"lng": -92.01231
+				}
+			],
+			"distance": 1728,
+			"categories": [
+				{
+					"id": "100-1000-0001",
+					"name": "Casual Dining",
+					"primary": true
+				},
+				{
+					"id": "100-1000-0000",
+					"name": "Restaurant"
+				},
+				{
+					"id": "200-2000-0011",
+					"name": "Bar or Pub"
+				}
+			],
+			"references": [
+				{
+					"supplier": {
+						"id": "core"
+					},
+					"id": "1161996854"
+				},
+				{
+					"supplier": {
+						"id": "tripadvisor"
+					},
+					"id": "4457653"
+				},
+				{
+					"supplier": {
+						"id": "yelp"
+					},
+					"id": "lKFAvOJtXOgxStL0y2KRUg"
+				}
+			],
+			"foodTypes": [
+				{
+					"id": "800-075",
+					"name": "Seafood",
+					"primary": true
+				},
+				{
+					"id": "101-000",
+					"name": "American"
+				},
+				{
+					"id": "101-003",
+					"name": "American - Barbecue/Southern"
+				},
+				{
+					"id": "201-000",
+					"name": "Chinese"
+				},
+				{
+					"id": "206-000",
+					"name": "Vietnamese"
+				},
+				{
+					"id": "800-078",
+					"name": "Grill"
+				}
+			],
+			"contacts": [
+				{
+					"phone": [
+						{
+							"value": "+13374561192"
+						}
+					],
+					"www": [
+						{
+							"value": "http://www.ctgrillnseafood.com"
+						}
+					]
+				}
+			],
+			"openingHours": [
+				{
+					"text": [
+						"Mon-Sat: 10:00 - 22:00",
+						"Sun: 11:00 - 20:00"
+					],
+					"isOpen": true,
+					"structured": [
+						{
+							"start": "T100000",
+							"duration": "PT12H00M",
+							"recurrence": "FREQ:DAILY;BYDAY:MO,TU,WE,TH,FR,SA"
+						},
+						{
+							"start": "T110000",
+							"duration": "PT09H00M",
+							"recurrence": "FREQ:DAILY;BYDAY:SU"
+						}
+					]
+				}
+			]
+		},
+		{
+			"title": "Kevin's Seafood",
+			"id": "here:pds:place:840jx7ps-f5aec649b598090e063b48e1f72f12a8",
+			"resultType": "place",
+			"address": {
+				"label": "Kevin's Seafood, 2018 W University Ave, Lafayette, LA 70506, United States",
+				"countryCode": "USA",
+				"countryName": "United States",
+				"stateCode": "LA",
+				"state": "Louisiana",
+				"county": "Lafayette",
+				"city": "Lafayette",
+				"street": "W University Ave",
+				"postalCode": "70506",
+				"houseNumber": "2018"
+			},
+			"position": {
+				"lat": 30.23184,
+				"lng": -92.03183
+			},
+			"access": [
+				{
+					"lat": 30.23171,
+					"lng": -92.03209
+				}
+			],
+			"distance": 1739,
+			"categories": [
+				{
+					"id": "600-6300-0064",
+					"name": "Food/Beverage Specialty Store",
+					"primary": true
+				},
+				{
+					"id": "100-1000-0000",
+					"name": "Restaurant"
+				},
+				{
+					"id": "100-1000-0003",
+					"name": "Take Out & Delivery Only"
+				}
+			],
+			"references": [
+				{
+					"supplier": {
+						"id": "core"
+					},
+					"id": "1139100034"
+				},
+				{
+					"supplier": {
+						"id": "core"
+					},
+					"id": "1212540849"
+				},
+				{
+					"supplier": {
+						"id": "tripadvisor"
+					},
+					"id": "11766546"
+				},
+				{
+					"supplier": {
+						"id": "yelp"
+					},
+					"id": "OeR65WmzH0RitEM39ybicA"
+				}
+			],
+			"foodTypes": [
+				{
+					"id": "800-075",
+					"name": "Seafood",
+					"primary": true
+				},
+				{
+					"id": "101-000",
+					"name": "American"
+				},
+				{
+					"id": "201-000",
+					"name": "Chinese"
+				}
+			],
+			"contacts": [
+				{
+					"phone": [
+						{
+							"value": "+13378893884"
+						},
+						{
+							"value": "+13378893885"
+						}
+					]
+				}
+			],
+			"openingHours": [
+				{
+					"text": [
+						"Mon-Sun: 10:00 - 21:00"
+					],
+					"isOpen": true,
+					"structured": [
+						{
+							"start": "T100000",
+							"duration": "PT11H00M",
+							"recurrence": "FREQ:DAILY;BYDAY:MO,TU,WE,TH,FR,SA,SU"
+						}
+					]
+				}
+			]
+		},
+		{
+			"title": "China One",
+			"id": "here:pds:place:8409vqec-27b89413759f40f3b9b7f70b6c68986f",
+			"resultType": "place",
+			"address": {
+				"label": "China One, 2668 Johnston St, Lafayette, LA 70503, United States",
+				"countryCode": "USA",
+				"countryName": "United States",
+				"stateCode": "LA",
+				"state": "Louisiana",
+				"county": "Lafayette",
+				"city": "Lafayette",
+				"street": "Johnston St",
+				"postalCode": "70503",
+				"houseNumber": "2668"
+			},
+			"position": {
+				"lat": 30.20931,
+				"lng": -92.03756
+			},
+			"access": [
+				{
+					"lat": 30.20766,
+					"lng": -92.03771
+				}
+			],
+			"distance": 2064,
+			"categories": [
+				{
+					"id": "100-1000-0003",
+					"name": "Take Out & Delivery Only",
+					"primary": true
+				},
+				{
+					"id": "100-1000-0000",
+					"name": "Restaurant"
+				},
+				{
+					"id": "100-1000-0009",
+					"name": "Fast Food"
+				}
+			],
+			"references": [
+				{
+					"supplier": {
+						"id": "core"
+					},
+					"id": "801849283"
+				},
+				{
+					"supplier": {
+						"id": "tripadvisor"
+					},
+					"id": "406448"
+				},
+				{
+					"supplier": {
+						"id": "yelp"
+					},
+					"id": "j_tSQU70Jera7k-U9crDQg"
+				}
+			],
+			"foodTypes": [
+				{
+					"id": "201-000",
+					"name": "Chinese",
+					"primary": true
+				},
+				{
+					"id": "200-000",
+					"name": "Asian"
+				},
+				{
+					"id": "201-010",
+					"name": "Chinese - Cantonese"
+				},
+				{
+					"id": "800-062",
+					"name": "Chicken"
+				}
+			],
+			"contacts": [
+				{
+					"phone": [
+						{
+							"value": "+13372348299"
+						}
+					],
+					"www": [
+						{
+							"value": "http://chinaonefood.com/"
+						},
+						{
+							"value": "http://chinaonelafayette.com"
+						},
+						{
+							"value": "http://www.chinaonelafayette.com/"
+						}
+					]
+				}
+			],
+			"openingHours": [
+				{
+					"text": [
+						"Mon-Thu: 10:30 - 22:30",
+						"Fri, Sat: 10:30 - 23:00",
+						"Sun: 11:30 - 22:00"
+					],
+					"isOpen": true,
+					"structured": [
+						{
+							"start": "T103000",
+							"duration": "PT12H00M",
+							"recurrence": "FREQ:DAILY;BYDAY:MO,TU,WE,TH"
+						},
+						{
+							"start": "T103000",
+							"duration": "PT12H30M",
+							"recurrence": "FREQ:DAILY;BYDAY:FR,SA"
+						},
+						{
+							"start": "T113000",
+							"duration": "PT10H30M",
+							"recurrence": "FREQ:DAILY;BYDAY:SU"
+						}
+					]
+				}
+			]
+		},
+		{
+			"title": "Asian Gourmet",
+			"id": "here:pds:place:840httek-76cee05bd9db0d51d31a61612504af2f",
+			"resultType": "place",
+			"address": {
+				"label": "Asian Gourmet, 905 N University Ave, Lafayette, LA 70506, United States",
+				"countryCode": "USA",
+				"countryName": "United States",
+				"stateCode": "LA",
+				"state": "Louisiana",
+				"county": "Lafayette",
+				"city": "Lafayette",
+				"street": "N University Ave",
+				"postalCode": "70506",
+				"houseNumber": "905"
+			},
+			"position": {
+				"lat": 30.24032,
+				"lng": -92.03276
+			},
+			"access": [
+				{
+					"lat": 30.24032,
+					"lng": -92.03242
+				}
+			],
+			"distance": 2571,
+			"categories": [
+				{
+					"id": "100-1000-0000",
+					"name": "Restaurant",
+					"primary": true
+				}
+			],
+			"foodTypes": [
+				{
+					"id": "200-000",
+					"name": "Asian",
+					"primary": true
+				},
+				{
+					"id": "201-000",
+					"name": "Chinese"
+				},
+				{
+					"id": "800-075",
+					"name": "Seafood"
+				}
+			],
+			"contacts": [
+				{
+					"phone": [
+						{
+							"value": "+13375344625"
+						}
+					]
+				}
+			]
+		},
+		{
+			"title": "King Buffet",
+			"id": "here:pds:place:8409vqec-00c60873e61549d1850abc440abfedb5",
+			"resultType": "place",
+			"address": {
+				"label": "King Buffet, 541 Bertrand Dr, Lafayette, LA 70506, United States",
+				"countryCode": "USA",
+				"countryName": "United States",
+				"stateCode": "LA",
+				"state": "Louisiana",
+				"county": "Lafayette",
+				"city": "Lafayette",
+				"street": "Bertrand Dr",
+				"postalCode": "70506",
+				"houseNumber": "541"
+			},
+			"position": {
+				"lat": 30.21379,
+				"lng": -92.04637
+			},
+			"access": [
+				{
+					"lat": 30.21385,
+					"lng": -92.04624
+				}
+			],
+			"distance": 2626,
+			"categories": [
+				{
+					"id": "100-1000-0000",
+					"name": "Restaurant",
+					"primary": true
+				},
+				{
+					"id": "100-1000-0007",
+					"name": "Cafeteria"
+				}
+			],
+			"references": [
+				{
+					"supplier": {
+						"id": "tripadvisor"
+					},
+					"id": "12141342"
+				},
+				{
+					"supplier": {
+						"id": "yelp"
+					},
+					"id": "OZ8hKS_AIMJDnnfGz0UMaw"
+				}
+			],
+			"foodTypes": [
+				{
+					"id": "201-000",
+					"name": "Chinese",
+					"primary": true
+				},
+				{
+					"id": "200-000",
+					"name": "Asian"
+				},
+				{
+					"id": "203-026",
+					"name": "Japanese - Sushi"
+				},
+				{
+					"id": "800-064",
+					"name": "International"
+				}
+			],
+			"contacts": [
+				{
+					"phone": [
+						{
+							"value": "+13372322688"
+						}
+					],
+					"www": [
+						{
+							"value": "https://www.facebook.com/KingBuffetLA/"
+						}
+					]
+				}
+			],
+			"openingHours": [
+				{
+					"text": [
+						"Mon-Thu: 11:00 - 21:30",
+						"Fri, Sat: 11:00 - 22:00",
+						"Sun: 11:00 - 21:00"
+					],
+					"isOpen": true,
+					"structured": [
+						{
+							"start": "T110000",
+							"duration": "PT10H30M",
+							"recurrence": "FREQ:DAILY;BYDAY:MO,TU,WE,TH"
+						},
+						{
+							"start": "T110000",
+							"duration": "PT11H00M",
+							"recurrence": "FREQ:DAILY;BYDAY:FR,SA"
+						},
+						{
+							"start": "T110000",
+							"duration": "PT10H00M",
+							"recurrence": "FREQ:DAILY;BYDAY:SU"
+						}
+					]
+				}
+			]
+		},
+		{
+			"title": "Magic Wok Chinese Restaurant",
+			"id": "here:pds:place:8409vqec-47d321d4c1874a96a33ea76de2831cdd",
+			"resultType": "place",
+			"address": {
+				"label": "Magic Wok Chinese Restaurant, 2944 Johnston St, Lafayette, LA 70503, United States",
+				"countryCode": "USA",
+				"countryName": "United States",
+				"stateCode": "LA",
+				"state": "Louisiana",
+				"county": "Lafayette",
+				"city": "Lafayette",
+				"street": "Johnston St",
+				"postalCode": "70503",
+				"houseNumber": "2944"
+			},
+			"position": {
+				"lat": 30.20522,
+				"lng": -92.0425
+			},
+			"access": [
+				{
+					"lat": 30.20501,
+					"lng": -92.04242
+				}
+			],
+			"distance": 2716,
+			"categories": [
+				{
+					"id": "100-1000-0001",
+					"name": "Casual Dining",
+					"primary": true
+				},
+				{
+					"id": "100-1000-0000",
+					"name": "Restaurant"
+				},
+				{
+					"id": "100-1000-0009",
+					"name": "Fast Food"
+				}
+			],
+			"references": [
+				{
+					"supplier": {
+						"id": "core"
+					},
+					"id": "33689009"
+				},
+				{
+					"supplier": {
+						"id": "tripadvisor"
+					},
+					"id": "406353"
+				},
+				{
+					"supplier": {
+						"id": "yelp"
+					},
+					"id": "uT5nQNDQ830uZnEfyZex9A"
+				}
+			],
+			"foodTypes": [
+				{
+					"id": "201-000",
+					"name": "Chinese",
+					"primary": true
+				},
+				{
+					"id": "200-000",
+					"name": "Asian"
+				}
+			],
+			"contacts": [
+				{
+					"phone": [
+						{
+							"value": "+13372378311"
+						}
+					],
+					"www": [
+						{
+							"value": "http://diningguide.com"
+						},
+						{
+							"value": "http://magicwokchineserestaurant2.placeweb.site"
+						}
+					]
+				}
+			],
+			"openingHours": [
+				{
+					"text": [
+						"Mon-Sat: 11:00 - 21:00",
+						"Sun: 00:00 - 24:00"
+					],
+					"isOpen": true,
+					"structured": [
+						{
+							"start": "T110000",
+							"duration": "PT10H00M",
+							"recurrence": "FREQ:DAILY;BYDAY:MO,TU,WE,TH,FR,SA"
+						},
+						{
+							"start": "T000000",
+							"duration": "PT24H00M",
+							"recurrence": "FREQ:DAILY;BYDAY:SU"
+						}
+					]
+				}
+			]
+		},
+		{
+			"title": "Golden Wok",
+			"id": "here:pds:place:8409vqec-e6953c372e454da58ed23b6ec9528805",
+			"resultType": "place",
+			"address": {
+				"label": "Golden Wok, 523 Bertrand Dr, Lafayette, LA 70506, United States",
+				"countryCode": "USA",
+				"countryName": "United States",
+				"stateCode": "LA",
+				"state": "Louisiana",
+				"county": "Lafayette",
+				"city": "Lafayette",
+				"street": "Bertrand Dr",
+				"postalCode": "70506",
+				"houseNumber": "523"
+			},
+			"position": {
+				"lat": 30.21309,
+				"lng": -92.04744
+			},
+			"access": [
+				{
+					"lat": 30.21374,
+					"lng": -92.04617
+				}
+			],
+			"distance": 2746,
+			"categories": [
+				{
+					"id": "100-1000-0001",
+					"name": "Casual Dining",
+					"primary": true
+				},
+				{
+					"id": "100-1000-0000",
+					"name": "Restaurant"
+				}
+			],
+			"references": [
+				{
+					"supplier": {
+						"id": "core"
+					},
+					"id": "33700600"
+				}
+			],
+			"foodTypes": [
+				{
+					"id": "201-000",
+					"name": "Chinese",
+					"primary": true
+				}
+			],
+			"contacts": [
+				{
+					"phone": [
+						{
+							"value": "+13375938222"
+						}
+					],
+					"fax": [
+						{
+							"value": "+13375938055"
+						}
+					],
+					"www": [
+						{
+							"value": "http://www.goldenwok.us/"
+						}
+					]
+				}
+			]
+		},
+		{
+			"title": "Cafe Habana City",
+			"id": "here:pds:place:8409vqe3-ba5cd79f7e7342ba87bf9d7322de5095",
+			"resultType": "place",
+			"address": {
+				"label": "Cafe Habana City, 911 Bertrand Dr, Lafayette, LA 70506, United States",
+				"countryCode": "USA",
+				"countryName": "United States",
+				"stateCode": "LA",
+				"state": "Louisiana",
+				"county": "Lafayette",
+				"city": "Lafayette",
+				"street": "Bertrand Dr",
+				"postalCode": "70506",
+				"houseNumber": "911"
+			},
+			"position": {
+				"lat": 30.21682,
+				"lng": -92.04882
+			},
+			"access": [
+				{
+					"lat": 30.21701,
+					"lng": -92.04842
+				}
+			],
+			"distance": 2792,
+			"categories": [
+				{
+					"id": "100-1000-0001",
+					"name": "Casual Dining",
+					"primary": true
+				},
+				{
+					"id": "100-1000-0000",
+					"name": "Restaurant"
+				}
+			],
+			"references": [
+				{
+					"supplier": {
+						"id": "core"
+					},
+					"id": "33704563"
+				},
+				{
+					"supplier": {
+						"id": "tripadvisor"
+					},
+					"id": "406514"
+				},
+				{
+					"supplier": {
+						"id": "yelp"
+					},
+					"id": "GEN_GP7EfKbrOkIWP1hcSg"
+				}
+			],
+			"foodTypes": [
+				{
+					"id": "152-000",
+					"name": "Caribbean",
+					"primary": true
+				},
+				{
+					"id": "102-000",
+					"name": "Mexican"
+				},
+				{
+					"id": "153-000",
+					"name": "Cuban"
+				},
+				{
+					"id": "403-000",
+					"name": "Latin American"
+				},
+				{
+					"id": "800-064",
+					"name": "International"
+				}
+			],
+			"contacts": [
+				{
+					"phone": [
+						{
+							"value": "+13372673060"
+						}
+					],
+					"www": [
+						{
+							"value": "http://cafehabanacity.com/"
+						},
+						{
+							"value": "http://www.cafehabanacity.com"
+						}
+					],
+					"email": [
+						{
+							"value": "cafehabanacity@yahoo.com"
+						}
+					]
+				}
+			],
+			"openingHours": [
+				{
+					"text": [
+						"Mon-Sat: 11:00 - 21:30"
+					],
+					"isOpen": true,
+					"structured": [
+						{
+							"start": "T110000",
+							"duration": "PT10H30M",
+							"recurrence": "FREQ:DAILY;BYDAY:MO,TU,WE,TH,FR,SA"
+						}
+					]
+				}
+			]
+		},
+		{
+			"title": "Takeout Express",
+			"id": "here:pds:place:8409vqec-0deb218bff0f449bb8e423a9e4695e01",
+			"resultType": "place",
+			"address": {
+				"label": "Takeout Express, 1300 Bertrand Dr, Lafayette, LA 70506, United States",
+				"countryCode": "USA",
+				"countryName": "United States",
+				"stateCode": "LA",
+				"state": "Louisiana",
+				"county": "Lafayette",
+				"city": "Lafayette",
+				"street": "Bertrand Dr",
+				"postalCode": "70506",
+				"houseNumber": "1300"
+			},
+			"position": {
+				"lat": 30.22094,
+				"lng": -92.04957
+			},
+			"access": [
+				{
+					"lat": 30.22032,
+					"lng": -92.05074
+				}
+			],
+			"distance": 2843,
+			"categories": [
+				{
+					"id": "100-1000-0003",
+					"name": "Take Out & Delivery Only",
+					"primary": true
+				},
+				{
+					"id": "100-1000-0000",
+					"name": "Restaurant"
+				}
+			],
+			"references": [
+				{
+					"supplier": {
+						"id": "core"
+					},
+					"id": "1214452540"
+				}
+			],
+			"foodTypes": [
+				{
+					"id": "102-000",
+					"name": "Mexican",
+					"primary": true
+				},
+				{
+					"id": "201-000",
+					"name": "Chinese"
+				}
+			],
+			"contacts": [
+				{
+					"phone": [
+						{
+							"value": "+13372376368"
+						},
+						{
+							"value": "+13375340789"
+						}
+					],
+					"www": [
+						{
+							"value": "http://237menu.com"
+						}
+					]
+				}
+			]
+		},
+		{
+			"title": "China Wok",
+			"id": "here:pds:place:8409vqec-956d6de302e14423a655fdcebd397c64",
+			"resultType": "place",
+			"address": {
+				"label": "China Wok, 2429 W Congress St, Lafayette, LA 70506, United States",
+				"countryCode": "USA",
+				"countryName": "United States",
+				"stateCode": "LA",
+				"state": "Louisiana",
+				"county": "Lafayette",
+				"city": "Lafayette",
+				"street": "W Congress St",
+				"postalCode": "70506",
+				"houseNumber": "2429"
+			},
+			"position": {
+				"lat": 30.21346,
+				"lng": -92.0488
+			},
+			"access": [
+				{
+					"lat": 30.21359,
+					"lng": -92.04892
+				}
+			],
+			"distance": 2861,
+			"categories": [
+				{
+					"id": "100-1000-0009",
+					"name": "Fast Food",
+					"primary": true
+				},
+				{
+					"id": "100-1000-0000",
+					"name": "Restaurant"
+				},
+				{
+					"id": "100-1000-0001",
+					"name": "Casual Dining"
+				}
+			],
+			"references": [
+				{
+					"supplier": {
+						"id": "core"
+					},
+					"id": "1130351142"
+				},
+				{
+					"supplier": {
+						"id": "tripadvisor"
+					},
+					"id": "4809763"
+				},
+				{
+					"supplier": {
+						"id": "yelp"
+					},
+					"id": "L-aDoqrTv7hTjnoI3zD_wA"
+				}
+			],
+			"foodTypes": [
+				{
+					"id": "201-000",
+					"name": "Chinese",
+					"primary": true
+				}
+			],
+			"contacts": [
+				{
+					"phone": [
+						{
+							"value": "+13372696069"
+						},
+						{
+							"value": "+13372696097"
+						}
+					],
+					"fax": [
+						{
+							"value": "+13372696069"
+						}
+					],
+					"www": [
+						{
+							"value": "http://chinawok.us/"
+						},
+						{
+							"value": "http://www.chinawok.chinesemenu.com/"
+						},
+						{
+							"value": "http://www.chinawoklafayette.com"
+						},
+						{
+							"value": "http://www.gochinawokla.com/"
+						}
+					]
+				}
+			],
+			"openingHours": [
+				{
+					"text": [
+						"Mon-Thu: 10:30 - 21:30",
+						"Fri, Sat: 10:30 - 22:30",
+						"Sun: 16:00 - 21:00"
+					],
+					"isOpen": true,
+					"structured": [
+						{
+							"start": "T103000",
+							"duration": "PT11H00M",
+							"recurrence": "FREQ:DAILY;BYDAY:MO,MO,TU,WE,TH"
+						},
+						{
+							"start": "T103000",
+							"duration": "PT12H00M",
+							"recurrence": "FREQ:DAILY;BYDAY:FR,SA"
+						},
+						{
+							"start": "T160000",
+							"duration": "PT05H00M",
+							"recurrence": "FREQ:DAILY;BYDAY:SU"
+						}
+					]
+				}
+			]
+		},
+		{
+			"title": "Panda House",
+			"id": "here:pds:place:8409vqef-3f603559d76943a797c89b9c06475d1f",
+			"resultType": "place",
+			"address": {
+				"label": "Panda House, 1812 W Pinhook Rd, Lafayette, LA 70508, United States",
+				"countryCode": "USA",
+				"countryName": "United States",
+				"stateCode": "LA",
+				"state": "Louisiana",
+				"county": "Lafayette",
+				"city": "Lafayette",
+				"street": "W Pinhook Rd",
+				"postalCode": "70508",
+				"houseNumber": "1812"
+			},
+			"position": {
+				"lat": 30.19084,
+				"lng": -92.01621
+			},
+			"access": [
+				{
+					"lat": 30.19093,
+					"lng": -92.01567
+				}
+			],
+			"distance": 3263,
+			"categories": [
+				{
+					"id": "100-1000-0003",
+					"name": "Take Out & Delivery Only",
+					"primary": true
+				},
+				{
+					"id": "100-1000-0000",
+					"name": "Restaurant"
+				},
+				{
+					"id": "100-1000-0009",
+					"name": "Fast Food"
+				}
+			],
+			"references": [
+				{
+					"supplier": {
+						"id": "core"
+					},
+					"id": "1130349937"
+				},
+				{
+					"supplier": {
+						"id": "tripadvisor"
+					},
+					"id": "4656311"
+				},
+				{
+					"supplier": {
+						"id": "yelp"
+					},
+					"id": "RRC2P8bro_Ys_meirHerQQ"
+				}
+			],
+			"foodTypes": [
+				{
+					"id": "201-000",
+					"name": "Chinese",
+					"primary": true
+				},
+				{
+					"id": "200-000",
+					"name": "Asian"
+				},
+				{
+					"id": "800-075",
+					"name": "Seafood"
+				}
+			],
+			"contacts": [
+				{
+					"phone": [
+						{
+							"value": "+13372665370"
+						}
+					],
+					"www": [
+						{
+							"value": "Pandahousefood.com"
+						},
+						{
+							"value": "http://www.PandaHouseLA.com"
+						},
+						{
+							"value": "http://www.pandahousefood.com"
+						}
+					],
+					"email": [
+						{
+							"value": "pandahousefood@gmail.com"
+						}
+					]
+				}
+			],
+			"openingHours": [
+				{
+					"text": [
+						"Mon-Thu: 10:30 - 22:00",
+						"Fri, Sat: 10:30 - 23:00",
+						"Sun: 11:30 - 22:00"
+					],
+					"isOpen": true,
+					"structured": [
+						{
+							"start": "T103000",
+							"duration": "PT11H30M",
+							"recurrence": "FREQ:DAILY;BYDAY:MO,MO,TU,TU,WE,TH,TH"
+						},
+						{
+							"start": "T103000",
+							"duration": "PT12H30M",
+							"recurrence": "FREQ:DAILY;BYDAY:FR,FR,SA"
+						},
+						{
+							"start": "T113000",
+							"duration": "PT10H30M",
+							"recurrence": "FREQ:DAILY;BYDAY:SU"
+						}
+					]
+				}
+			]
+		},
+		{
+			"title": "Hot Food Express",
+			"id": "here:pds:place:8409vqec-a26269c48c084c17a88cd84e60e1dca7",
+			"resultType": "place",
+			"address": {
+				"label": "Hot Food Express, 3013 Cameron St, Lafayette, LA 70506, United States",
+				"countryCode": "USA",
+				"countryName": "United States",
+				"stateCode": "LA",
+				"state": "Louisiana",
+				"county": "Lafayette",
+				"city": "Lafayette",
+				"street": "Cameron St",
+				"postalCode": "70506",
+				"houseNumber": "3013"
+			},
+			"position": {
+				"lat": 30.23217,
+				"lng": -92.05172
+			},
+			"access": [
+				{
+					"lat": 30.23249,
+					"lng": -92.05171
+				}
+			],
+			"distance": 3335,
+			"categories": [
+				{
+					"id": "100-1000-0009",
+					"name": "Fast Food",
+					"primary": true
+				},
+				{
+					"id": "100-1000-0000",
+					"name": "Restaurant"
+				},
+				{
+					"id": "100-1000-0001",
+					"name": "Casual Dining"
+				}
+			],
+			"references": [
+				{
+					"supplier": {
+						"id": "core"
+					},
+					"id": "1024002902"
+				},
+				{
+					"supplier": {
+						"id": "tripadvisor"
+					},
+					"id": "4231524"
+				},
+				{
+					"supplier": {
+						"id": "yelp"
+					},
+					"id": "cXBm5wEUXTQ4y3av0ba7PA"
+				}
+			],
+			"foodTypes": [
+				{
+					"id": "204-000",
+					"name": "Southeast Asian",
+					"primary": true
+				},
+				{
+					"id": "101-000",
+					"name": "American"
+				},
+				{
+					"id": "101-070",
+					"name": "American - Cajun"
+				},
+				{
+					"id": "201-000",
+					"name": "Chinese"
+				},
+				{
+					"id": "800-075",
+					"name": "Seafood"
+				},
+				{
+					"id": "800-078",
+					"name": "Grill"
+				}
+			],
+			"contacts": [
+				{
+					"phone": [
+						{
+							"value": "+13372357874"
+						}
+					],
+					"www": [
+						{
+							"value": "http://www.hotfoodexpress.com"
+						},
+						{
+							"value": "https://www.facebook.com/pages/edit/?id=334128108259&tab=public"
+						}
+					],
+					"email": [
+						{
+							"value": "zee@hotfoodexpress.com"
+						}
+					]
+				}
+			],
+			"openingHours": [
+				{
+					"text": [
+						"Mon-Sat: 10:00 - 22:00",
+						"Sun: 11:00 - 21:00"
+					],
+					"isOpen": true,
+					"structured": [
+						{
+							"start": "T100000",
+							"duration": "PT12H00M",
+							"recurrence": "FREQ:DAILY;BYDAY:MO,TU,WE,TH,FR,SA"
+						},
+						{
+							"start": "T110000",
+							"duration": "PT10H00M",
+							"recurrence": "FREQ:DAILY;BYDAY:SU"
+						}
+					]
+				}
+			]
+		},
+		{
+			"title": "Khan Mongolian Grill",
+			"id": "here:pds:place:8409vqed-2861f447a5454602992b98aa4ab6831f",
+			"resultType": "place",
+			"address": {
+				"label": "Khan Mongolian Grill, 2013 W Pinhook Rd, Lafayette, LA 70508, United States",
+				"countryCode": "USA",
+				"countryName": "United States",
+				"stateCode": "LA",
+				"state": "Louisiana",
+				"county": "Lafayette",
+				"city": "Lafayette",
+				"street": "W Pinhook Rd",
+				"postalCode": "70508",
+				"houseNumber": "2013"
+			},
+			"position": {
+				"lat": 30.18709,
+				"lng": -92.01144
+			},
+			"access": [
+				{
+					"lat": 30.18673,
+					"lng": -92.01183
+				}
+			],
+			"distance": 3751,
+			"categories": [
+				{
+					"id": "100-1000-0000",
+					"name": "Restaurant",
+					"primary": true
+				},
+				{
+					"id": "100-1000-0001",
+					"name": "Casual Dining"
+				}
+			],
+			"references": [
+				{
+					"supplier": {
+						"id": "tripadvisor"
+					},
+					"id": "15798679"
+				},
+				{
+					"supplier": {
+						"id": "tripadvisor"
+					},
+					"id": "15798891"
+				},
+				{
+					"supplier": {
+						"id": "yelp"
+					},
+					"id": "CuwLVlb3H0PdyhqQr0SByA"
+				}
+			],
+			"foodTypes": [
+				{
+					"id": "200-000",
+					"name": "Asian",
+					"primary": true
+				},
+				{
+					"id": "201-000",
+					"name": "Chinese"
+				},
+				{
+					"id": "201-047",
+					"name": "Chinese-Inner Mongolian"
+				},
+				{
+					"id": "800-078",
+					"name": "Grill"
+				}
+			],
+			"contacts": [
+				{
+					"phone": [
+						{
+							"value": "+13374088965"
+						},
+						{
+							"value": "+13374563041"
+						}
+					],
+					"www": [
+						{
+							"value": "http://khan-mongoliangrill.business.site"
+						},
+						{
+							"value": "http://khan-mongoliangrill.business.site/"
+						},
+						{
+							"value": "https://khan-mongoliangrill.business.site/website/khan-mongoliangrill"
+						}
+					],
+					"email": [
+						{
+							"value": "nanananunu@163.com"
+						}
+					]
+				}
+			],
+			"openingHours": [
+				{
+					"text": [
+						"Mon-Sun: 10:00 - 21:00"
+					],
+					"isOpen": true,
+					"structured": [
+						{
+							"start": "T100000",
+							"duration": "PT11H00M",
+							"recurrence": "FREQ:DAILY;BYDAY:MO,TU,WE,TH,FR,SA,SU"
+						}
+					]
+				}
+			]
+		},
+		{
+			"title": "Thai with Love",
+			"id": "here:pds:place:8409vqe9-0382d92294ce45f0abd1a694afa3c638",
+			"resultType": "place",
+			"address": {
+				"label": "Thai with Love, 924 Kaliste Saloom Rd, Lafayette, LA 70508, United States",
+				"countryCode": "USA",
+				"countryName": "United States",
+				"stateCode": "LA",
+				"state": "Louisiana",
+				"county": "Lafayette",
+				"city": "Lafayette",
+				"street": "Kaliste Saloom Rd",
+				"postalCode": "70508",
+				"houseNumber": "924"
+			},
+			"position": {
+				"lat": 30.18015,
+				"lng": -92.02403
+			},
+			"access": [
+				{
+					"lat": 30.1799,
+					"lng": -92.02398
+				}
+			],
+			"distance": 4448,
+			"categories": [
+				{
+					"id": "100-1000-0001",
+					"name": "Casual Dining",
+					"primary": true
+				},
+				{
+					"id": "100-1000-0000",
+					"name": "Restaurant"
+				}
+			],
+			"references": [
+				{
+					"supplier": {
+						"id": "core"
+					},
+					"id": "1214451662"
+				},
+				{
+					"supplier": {
+						"id": "tripadvisor"
+					},
+					"id": "4517097"
+				},
+				{
+					"supplier": {
+						"id": "yelp"
+					},
+					"id": "I_ss5881ePjP_SUTRBJOKg"
+				},
+				{
+					"supplier": {
+						"id": "yelp"
+					},
+					"id": "Jz2DiAKdnkhijEjjnc3LPg"
+				},
+				{
+					"supplier": {
+						"id": "yelp"
+					},
+					"id": "NB2_JAR-bBUANX2JB170gQ"
+				}
+			],
+			"foodTypes": [
+				{
+					"id": "205-000",
+					"name": "Thai",
+					"primary": true
+				},
+				{
+					"id": "200-000",
+					"name": "Asian"
+				},
+				{
+					"id": "201-000",
+					"name": "Chinese"
+				},
+				{
+					"id": "206-000",
+					"name": "Vietnamese"
+				},
+				{
+					"id": "800-076",
+					"name": "Vegan"
+				},
+				{
+					"id": "800-077",
+					"name": "Vegetarian"
+				}
+			],
+			"contacts": [
+				{
+					"phone": [
+						{
+							"value": "+13372331809"
+						}
+					],
+					"www": [
+						{
+							"value": "https://www.facebook.com/Thai-With-Love-281950738599144/"
+						}
+					]
+				}
+			],
+			"openingHours": [
+				{
+					"text": [
+						"Mon-Sat: 11:00 - 20:00"
+					],
+					"isOpen": true,
+					"structured": [
+						{
+							"start": "T110000",
+							"duration": "PT09H00M",
+							"recurrence": "FREQ:DAILY;BYDAY:MO,MO,TU,WE,TH,FR,SA"
+						}
+					]
+				}
+			]
+		},
+		{
+			"title": "Hot Wok",
+			"id": "here:pds:place:8409vqed-f8e8d75d2079475b8a03a80958c11c8e",
+			"resultType": "place",
+			"address": {
+				"label": "Hot Wok, 210 Production Dr, Lafayette, LA 70508, United States",
+				"countryCode": "USA",
+				"countryName": "United States",
+				"stateCode": "LA",
+				"state": "Louisiana",
+				"county": "Lafayette",
+				"city": "Lafayette",
+				"street": "Production Dr",
+				"postalCode": "70508",
+				"houseNumber": "210"
+			},
+			"position": {
+				"lat": 30.17985,
+				"lng": -92.00644
+			},
+			"access": [
+				{
+					"lat": 30.17994,
+					"lng": -92.00655
+				}
+			],
+			"distance": 4651,
+			"categories": [
+				{
+					"id": "100-1000-0001",
+					"name": "Casual Dining",
+					"primary": true
+				},
+				{
+					"id": "100-1000-0000",
+					"name": "Restaurant"
+				},
+				{
+					"id": "100-1000-0009",
+					"name": "Fast Food"
+				}
+			],
+			"references": [
+				{
+					"supplier": {
+						"id": "core"
+					},
+					"id": "1104132707"
+				},
+				{
+					"supplier": {
+						"id": "tripadvisor"
+					},
+					"id": "4962830"
+				},
+				{
+					"supplier": {
+						"id": "yelp"
+					},
+					"id": "vmRSjOlViUPhkusrbVhOKg"
+				}
+			],
+			"foodTypes": [
+				{
+					"id": "201-000",
+					"name": "Chinese",
+					"primary": true
+				},
+				{
+					"id": "201-009",
+					"name": "Chinese - Szechuan"
+				},
+				{
+					"id": "201-010",
+					"name": "Chinese - Cantonese"
+				},
+				{
+					"id": "800-075",
+					"name": "Seafood"
+				}
+			],
+			"contacts": [
+				{
+					"phone": [
+						{
+							"value": "+13372339488"
+						}
+					],
+					"www": [
+						{
+							"value": "http://www.hotwokcr.com"
+						},
+						{
+							"value": "http://www.hotwokcr.com/"
+						},
+						{
+							"value": "http://www.hotwoklafayette.com/"
+						}
+					]
+				}
+			],
+			"openingHours": [
+				{
+					"text": [
+						"Mon-Wed: 11:00 - 22:00",
+						"Thu: 00:00 - 24:00, 11:00 - 22:00",
+						"Fri, Sat: 11:00 - 23:00",
+						"Sun: 12:00 - 22:00"
+					],
+					"isOpen": true,
+					"structured": [
+						{
+							"start": "T110000",
+							"duration": "PT11H00M",
+							"recurrence": "FREQ:DAILY;BYDAY:MO,MO,TU,TU,WE,TH"
+						},
+						{
+							"start": "T000000",
+							"duration": "PT24H00M",
+							"recurrence": "FREQ:DAILY;BYDAY:TH"
+						},
+						{
+							"start": "T110000",
+							"duration": "PT12H00M",
+							"recurrence": "FREQ:DAILY;BYDAY:FR,FR,SA"
+						},
+						{
+							"start": "T120000",
+							"duration": "PT10H00M",
+							"recurrence": "FREQ:DAILY;BYDAY:SU"
+						}
+					]
+				}
+			]
+		},
+		{
+			"title": "Royal Panda",
+			"id": "here:pds:place:8409vqed-a8d32b1e26d24b2291e640a5962b2176",
+			"resultType": "place",
+			"address": {
+				"label": "Royal Panda, 2418 W Pinhook Rd, Lafayette, LA 70508, United States",
+				"countryCode": "USA",
+				"countryName": "United States",
+				"stateCode": "LA",
+				"state": "Louisiana",
+				"county": "Lafayette",
+				"city": "Lafayette",
+				"street": "W Pinhook Rd",
+				"postalCode": "70508",
+				"houseNumber": "2418"
+			},
+			"position": {
+				"lat": 30.18028,
+				"lng": -92.00483
+			},
+			"access": [
+				{
+					"lat": 30.18062,
+					"lng": -92.00439
+				}
+			],
+			"distance": 4651,
+			"categories": [
+				{
+					"id": "100-1000-0001",
+					"name": "Casual Dining",
+					"primary": true
+				},
+				{
+					"id": "100-1000-0000",
+					"name": "Restaurant"
+				}
+			],
+			"references": [
+				{
+					"supplier": {
+						"id": "core"
+					},
+					"id": "33690270"
+				},
+				{
+					"supplier": {
+						"id": "tripadvisor"
+					},
+					"id": "826047"
+				},
+				{
+					"supplier": {
+						"id": "yelp"
+					},
+					"id": "7uxZnTn0FEkt6rn9ibjpmg"
+				}
+			],
+			"foodTypes": [
+				{
+					"id": "201-000",
+					"name": "Chinese",
+					"primary": true
+				},
+				{
+					"id": "200-000",
+					"name": "Asian"
+				},
+				{
+					"id": "203-000",
+					"name": "Japanese"
+				},
+				{
+					"id": "203-026",
+					"name": "Japanese - Sushi"
+				}
+			],
+			"contacts": [
+				{
+					"phone": [
+						{
+							"value": "+13372336368"
+						}
+					],
+					"fax": [
+						{
+							"value": "+13372336308"
+						}
+					],
+					"www": [
+						{
+							"value": "http://royalpandabuffet.com"
+						},
+						{
+							"value": "http://www.newroyalpanda.com"
+						},
+						{
+							"value": "http://www.royalpandabuffet.com/"
+						},
+						{
+							"value": "http://www.royalpandalafayette.com/"
+						},
+						{
+							"value": "www.royalpandabuffet.com"
+						}
+					]
+				}
+			],
+			"openingHours": [
+				{
+					"text": [
+						"Mon-Sun: 11:00 - 21:30"
+					],
+					"isOpen": true,
+					"structured": [
+						{
+							"start": "T110000",
+							"duration": "PT10H30M",
+							"recurrence": "FREQ:DAILY;BYDAY:MO,TU,WE,TH,FR,SA,SU"
+						}
+					]
+				}
+			]
+		},
+		{
+			"title": "Khan Mongolian Grill",
+			"id": "here:pds:place:8409vqeb-a1c3ad518bc447c691712653b6f37c35",
+			"resultType": "place",
+			"address": {
+				"label": "Khan Mongolian Grill, 1906 Eraste Landry Rd, Lafayette, LA 70506, United States",
+				"countryCode": "USA",
+				"countryName": "United States",
+				"stateCode": "LA",
+				"state": "Louisiana",
+				"county": "Lafayette",
+				"city": "Lafayette",
+				"street": "Eraste Landry Rd",
+				"postalCode": "70506",
+				"houseNumber": "1906"
+			},
+			"position": {
+				"lat": 30.22043,
+				"lng": -92.07015
+			},
+			"access": [
+				{
+					"lat": 30.21916,
+					"lng": -92.07017
+				}
+			],
+			"distance": 4819,
+			"categories": [
+				{
+					"id": "100-1000-0001",
+					"name": "Casual Dining",
+					"primary": true
+				},
+				{
+					"id": "200-2000-0011",
+					"name": "Bar or Pub"
+				}
+			],
+			"references": [
+				{
+					"supplier": {
+						"id": "core"
+					},
+					"id": "1214452397"
+				}
+			],
+			"foodTypes": [
+				{
+					"id": "200-000",
+					"name": "Asian",
+					"primary": true
+				},
+				{
+					"id": "201-000",
+					"name": "Chinese"
+				},
+				{
+					"id": "800-064",
+					"name": "International"
+				}
+			],
+			"contacts": [
+				{
+					"phone": [
+						{
+							"value": "+13374088965"
+						}
+					]
+				}
+			]
+		}
+	]
+}
