@@ -513,16 +513,46 @@ Yemeni
                     apis/route1.js
                     apis/route2.js
                     </aside>
-				</section>                    
+				</section>
+
+                <section>
+                <h2>API Stuff in Maps</h2>
+                <ul>
+                <li class="fragment">You can do REST in JS</li>
+                <li class="fragment">MapsJS wraps Geocoding, Reverse Geocoding, Search, Routing, etc</li>
+                </ul>
+                </section>
+
+                <section>
+                    <h2>Example</h2>
+                    <pre><code class="javascript" data-trim>
+// Get an instance of the search service:
+const service = platform.getSearchService();
+
+service.geocode({
+    q: 'new orleans, la'
+}, (result) => {
+    // Add a marker for each location found
+    result.items.forEach((item) => {
+        map.addObject(new H.map.Marker(item.position));
+    });
+}, alert);
+                    </code></pre>
+                </section>
+
+				<section>
+					<h2>Demo</h2>
+                    <aside class="notes">
+                    mapsjs/jsgeocode
+                    </aside>
+				</section>
+
 <!--
-
-todo tomorrow: 
-
-go back to maps and show geocoding integration
-reverse geocoding integration
 
 than studio
 then DH
+
+docs+links
 -->
 
             </div>
